@@ -1,0 +1,3682 @@
+{
+    "鞍山^^107^^anshan^^as": {
+        "city_name": "鞍山",
+        "city_id": "107",
+        "url": "https:\/\/m.anjuke.com\/as\/"
+    },
+    "安阳^^121^^anyang^^ay": {
+        "city_name": "安阳",
+        "city_id": "121",
+        "url": "https:\/\/m.anjuke.com\/ay\/"
+    },
+    "安庆^^168^^anqing^^aq": {
+        "city_name": "安庆",
+        "city_id": "168",
+        "url": "https:\/\/m.anjuke.com\/aq\/"
+    },
+    "安康^^230^^ankang^^ank": {
+        "city_name": "安康",
+        "city_id": "230",
+        "url": "https:\/\/m.anjuke.com\/ank\/"
+    },
+    "安顺^^258^^anshun^^ans": {
+        "city_name": "安顺",
+        "city_id": "258",
+        "url": "https:\/\/m.anjuke.com\/ans\/"
+    },
+    "阿坝^^293^^aba^^ab": {
+        "city_name": "阿坝",
+        "city_id": "293",
+        "url": "https:\/\/m.anjuke.com\/ab\/"
+    },
+    "阿克苏^^294^^akesu^^aks": {
+        "city_name": "阿克苏",
+        "city_id": "294",
+        "url": "https:\/\/m.anjuke.com\/aks\/"
+    },
+    "阿里^^295^^ali^^al": {
+        "city_name": "阿里",
+        "city_id": "295",
+        "url": "https:\/\/m.anjuke.com\/al\/"
+    },
+    "阿拉尔^^296^^alaer^^ale": {
+        "city_name": "阿拉尔",
+        "city_id": "296",
+        "url": "https:\/\/m.anjuke.com\/ale\/"
+    },
+    "阿拉善盟^^297^^alashanmeng^^alsm": {
+        "city_name": "阿拉善盟",
+        "city_id": "297",
+        "url": "https:\/\/m.anjuke.com\/alsm\/"
+    },
+    "安丘^^605^^anqiu^^anq": {
+        "city_name": "安丘",
+        "city_id": "605",
+        "url": "https:\/\/m.anjuke.com\/anq\/"
+    },
+    "安宁^^606^^anning^^ann": {
+        "city_name": "安宁",
+        "city_id": "606",
+        "url": "https:\/\/m.anjuke.com\/ann\/"
+    },
+    "安吉县^^579^^anjixian^^anji": {
+        "city_name": "安吉县",
+        "city_id": "579",
+        "url": "https:\/\/m.anjuke.com\/anji\/"
+    },
+    "安溪^^604^^anxi^^ax": {
+        "city_name": "安溪",
+        "city_id": "604",
+        "url": "https:\/\/m.anjuke.com\/ax\/"
+    },
+    "林州^^841^^aylinzhou^^aylz": {
+        "city_name": "林州",
+        "city_id": "841",
+        "url": "https:\/\/m.anjuke.com\/aylz\/"
+    },
+    "安岳^^586^^anyuexian^^anyuexian": {
+        "city_name": "安岳",
+        "city_id": "586",
+        "url": "https:\/\/m.anjuke.com\/anyuexian\/"
+    },
+    "阿勒泰^^473^^aletai^^alt": {
+        "city_name": "阿勒泰",
+        "city_id": "473",
+        "url": "https:\/\/m.anjuke.com\/alt\/"
+    },
+    "北京^^14^^beijing^^bj": {
+        "city_name": "北京",
+        "city_id": "14",
+        "url": "https:\/\/m.anjuke.com\/bj\/"
+    },
+    "保定^^53^^baoding^^bd": {
+        "city_name": "保定",
+        "city_id": "53",
+        "url": "https:\/\/m.anjuke.com\/bd\/"
+    },
+    "包头^^113^^baotou^^bt": {
+        "city_name": "包头",
+        "city_id": "113",
+        "url": "https:\/\/m.anjuke.com\/bt\/"
+    },
+    "滨州^^116^^binzhou^^bz": {
+        "city_name": "滨州",
+        "city_id": "116",
+        "url": "https:\/\/m.anjuke.com\/bz\/"
+    },
+    "宝鸡^^127^^baoji^^bao": {
+        "city_name": "宝鸡",
+        "city_id": "127",
+        "url": "https:\/\/m.anjuke.com\/bao\/"
+    },
+    "蚌埠^^180^^bengbu^^bb": {
+        "city_name": "蚌埠",
+        "city_id": "180",
+        "url": "https:\/\/m.anjuke.com\/bb\/"
+    },
+    "本溪^^190^^benxi^^bx": {
+        "city_name": "本溪",
+        "city_id": "190",
+        "url": "https:\/\/m.anjuke.com\/bx\/"
+    },
+    "北海^^227^^beihai^^bh": {
+        "city_name": "北海",
+        "city_id": "227",
+        "url": "https:\/\/m.anjuke.com\/bh\/"
+    },
+    "巴音郭楞^^237^^bayinguoleng^^bygl": {
+        "city_name": "巴音郭楞",
+        "city_id": "237",
+        "url": "https:\/\/m.anjuke.com\/bygl\/"
+    },
+    "巴中^^242^^bazhong^^ba": {
+        "city_name": "巴中",
+        "city_id": "242",
+        "url": "https:\/\/m.anjuke.com\/ba\/"
+    },
+    "巴彦淖尔市^^260^^bayannaoer^^bycem": {
+        "city_name": "巴彦淖尔市",
+        "city_id": "260",
+        "url": "https:\/\/m.anjuke.com\/bycem\/"
+    },
+    "亳州^^266^^bozhou^^boz": {
+        "city_name": "亳州",
+        "city_id": "266",
+        "url": "https:\/\/m.anjuke.com\/boz\/"
+    },
+    "白银^^284^^baiyin^^by": {
+        "city_name": "白银",
+        "city_id": "284",
+        "url": "https:\/\/m.anjuke.com\/by\/"
+    },
+    "白城^^286^^baicheng^^bc": {
+        "city_name": "白城",
+        "city_id": "286",
+        "url": "https:\/\/m.anjuke.com\/bc\/"
+    },
+    "百色^^299^^baise^^bais": {
+        "city_name": "百色",
+        "city_id": "299",
+        "url": "https:\/\/m.anjuke.com\/bais\/"
+    },
+    "白山^^300^^baishan^^baish": {
+        "city_name": "白山",
+        "city_id": "300",
+        "url": "https:\/\/m.anjuke.com\/baish\/"
+    },
+    "博尔塔拉^^301^^boertala^^betl": {
+        "city_name": "博尔塔拉",
+        "city_id": "301",
+        "url": "https:\/\/m.anjuke.com\/betl\/"
+    },
+    "毕节^^302^^bijie^^bij": {
+        "city_name": "毕节",
+        "city_id": "302",
+        "url": "https:\/\/m.anjuke.com\/bij\/"
+    },
+    "西双版纳^^303^^bannan^^bn": {
+        "city_name": "西双版纳",
+        "city_id": "303",
+        "url": "https:\/\/m.anjuke.com\/bn\/"
+    },
+    "保山^^304^^baoshan^^bs": {
+        "city_name": "保山",
+        "city_id": "304",
+        "url": "https:\/\/m.anjuke.com\/bs\/"
+    },
+    "霸州^^610^^bazh^^baz": {
+        "city_name": "霸州",
+        "city_id": "610",
+        "url": "https:\/\/m.anjuke.com\/baz\/"
+    },
+    "北票^^821^^beipiao^^bp": {
+        "city_name": "北票",
+        "city_id": "821",
+        "url": "https:\/\/m.anjuke.com\/bp\/"
+    },
+    "北流^^881^^beiliu^^beil": {
+        "city_name": "北流",
+        "city_id": "881",
+        "url": "https:\/\/m.anjuke.com\/beil\/"
+    },
+    "博白^^1019^^bobaixian^^bob": {
+        "city_name": "博白",
+        "city_id": "1019",
+        "url": "https:\/\/m.anjuke.com\/bob\/"
+    },
+    "博罗^^419^^boluoxian^^boluo": {
+        "city_name": "博罗",
+        "city_id": "419",
+        "url": "https:\/\/m.anjuke.com\/boluo\/"
+    },
+    "宝应县^^565^^baoyingxian^^baoyingx": {
+        "city_name": "宝应县",
+        "city_id": "565",
+        "url": "https:\/\/m.anjuke.com\/baoyingx\/"
+    },
+    "博兴^^962^^boxingxian^^box": {
+        "city_name": "博兴",
+        "city_id": "962",
+        "url": "https:\/\/m.anjuke.com\/box\/"
+    },
+    "成都^^15^^chengdu^^cd": {
+        "city_name": "成都",
+        "city_id": "15",
+        "url": "https:\/\/m.anjuke.com\/cd\/"
+    },
+    "重庆^^20^^chongqing^^cq": {
+        "city_name": "重庆",
+        "city_id": "20",
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "长沙^^27^^cs^^cs": {
+        "city_name": "长沙",
+        "city_id": "27",
+        "url": "https:\/\/m.anjuke.com\/cs\/"
+    },
+    "常州^^43^^cz^^cz": {
+        "city_name": "常州",
+        "city_id": "43",
+        "url": "https:\/\/m.anjuke.com\/cz\/"
+    },
+    "长春^^50^^cc^^cc": {
+        "city_name": "长春",
+        "city_id": "50",
+        "url": "https:\/\/m.anjuke.com\/cc\/"
+    },
+    "沧州^^114^^cangzhou^^cang": {
+        "city_name": "沧州",
+        "city_id": "114",
+        "url": "https:\/\/m.anjuke.com\/cang\/"
+    },
+    "昌吉^^145^^changji^^cj": {
+        "city_name": "昌吉",
+        "city_id": "145",
+        "url": "https:\/\/m.anjuke.com\/cj\/"
+    },
+    "赤峰^^160^^chifeng^^cf": {
+        "city_name": "赤峰",
+        "city_id": "160",
+        "url": "https:\/\/m.anjuke.com\/cf\/"
+    },
+    "常德^^161^^changde^^chd": {
+        "city_name": "常德",
+        "city_id": "161",
+        "url": "https:\/\/m.anjuke.com\/chd\/"
+    },
+    "郴州^^186^^chenzhou^^chen": {
+        "city_name": "郴州",
+        "city_id": "186",
+        "url": "https:\/\/m.anjuke.com\/chen\/"
+    },
+    "承德^^200^^chengde^^cheng": {
+        "city_name": "承德",
+        "city_id": "200",
+        "url": "https:\/\/m.anjuke.com\/cheng\/"
+    },
+    "长治^^204^^changzhi^^chang": {
+        "city_name": "长治",
+        "city_id": "204",
+        "url": "https:\/\/m.anjuke.com\/chang\/"
+    },
+    "池州^^222^^chizhou^^chi": {
+        "city_name": "池州",
+        "city_id": "222",
+        "url": "https:\/\/m.anjuke.com\/chi\/"
+    },
+    "滁州^^223^^chuzhou^^chu": {
+        "city_name": "滁州",
+        "city_id": "223",
+        "url": "https:\/\/m.anjuke.com\/chu\/"
+    },
+    "朝阳^^229^^chaoyang^^cy": {
+        "city_name": "朝阳",
+        "city_id": "229",
+        "url": "https:\/\/m.anjuke.com\/cy\/"
+    },
+    "潮州^^240^^chaozhou^^chao": {
+        "city_name": "潮州",
+        "city_id": "240",
+        "url": "https:\/\/m.anjuke.com\/chao\/"
+    },
+    "楚雄^^272^^chuxiong^^cx": {
+        "city_name": "楚雄",
+        "city_id": "272",
+        "url": "https:\/\/m.anjuke.com\/cx\/"
+    },
+    "巢湖^^273^^chaohu^^ch": {
+        "city_name": "巢湖",
+        "city_id": "273",
+        "url": "https:\/\/m.anjuke.com\/ch\/"
+    },
+    "昌都^^305^^changdu^^changd": {
+        "city_name": "昌都",
+        "city_id": "305",
+        "url": "https:\/\/m.anjuke.com\/changd\/"
+    },
+    "长葛^^306^^changge^^cg": {
+        "city_name": "长葛",
+        "city_id": "306",
+        "url": "https:\/\/m.anjuke.com\/cg\/"
+    },
+    "崇左^^307^^chongzuo^^chongz": {
+        "city_name": "崇左",
+        "city_id": "307",
+        "url": "https:\/\/m.anjuke.com\/chongz\/"
+    },
+    "赤壁^^857^^chibi^^chb": {
+        "city_name": "赤壁",
+        "city_id": "857",
+        "url": "https:\/\/m.anjuke.com\/chb\/"
+    },
+    "岑溪^^878^^cengxi^^cengx": {
+        "city_name": "岑溪",
+        "city_id": "878",
+        "url": "https:\/\/m.anjuke.com\/cengx\/"
+    },
+    "慈溪^^426^^cixi^^cix": {
+        "city_name": "慈溪",
+        "city_id": "426",
+        "url": "https:\/\/m.anjuke.com\/cix\/"
+    },
+    "慈利^^1020^^cilixian^^clzjj": {
+        "city_name": "慈利",
+        "city_id": "1020",
+        "url": "https:\/\/m.anjuke.com\/clzjj\/"
+    },
+    "长岭^^1039^^changlingxian^^changl": {
+        "city_name": "长岭",
+        "city_id": "1039",
+        "url": "https:\/\/m.anjuke.com\/changl\/"
+    },
+    "长兴^^420^^changxingxian^^changxing": {
+        "city_name": "长兴",
+        "city_id": "420",
+        "url": "https:\/\/m.anjuke.com\/changxing\/"
+    },
+    "苍南县^^568^^cangnanxian^^cangnanxian": {
+        "city_name": "苍南县",
+        "city_id": "568",
+        "url": "https:\/\/m.anjuke.com\/cangnanxian\/"
+    },
+    "曹县^^576^^caoxian^^caoxian": {
+        "city_name": "曹县",
+        "city_id": "576",
+        "url": "https:\/\/m.anjuke.com\/caoxian\/"
+    },
+    "长垣县^^583^^changyuanxian^^changyuan": {
+        "city_name": "长垣县",
+        "city_id": "583",
+        "url": "https:\/\/m.anjuke.com\/changyuan\/"
+    },
+    "昌乐^^623^^changle^^cl": {
+        "city_name": "昌乐",
+        "city_id": "623",
+        "url": "https:\/\/m.anjuke.com\/cl\/"
+    },
+    "沧县^^953^^cangxian^^cxcz": {
+        "city_name": "沧县",
+        "city_id": "953",
+        "url": "https:\/\/m.anjuke.com\/cxcz\/"
+    },
+    "长宁^^961^^changning^^cn": {
+        "city_name": "长宁",
+        "city_id": "961",
+        "url": "https:\/\/m.anjuke.com\/cn\/"
+    },
+    "磁县^^963^^cixian^^cixian": {
+        "city_name": "磁县",
+        "city_id": "963",
+        "url": "https:\/\/m.anjuke.com\/cixian\/"
+    },
+    "茌平^^1042^^chiping^^cp": {
+        "city_name": "茌平",
+        "city_id": "1042",
+        "url": "https:\/\/m.anjuke.com\/cp\/"
+    },
+    "澄迈^^444^^cm^^cm": {
+        "city_name": "澄迈",
+        "city_id": "444",
+        "url": "https:\/\/m.anjuke.com\/cm\/"
+    },
+    "大连^^21^^dalian^^dl": {
+        "city_name": "大连",
+        "city_id": "21",
+        "url": "https:\/\/m.anjuke.com\/dl\/"
+    },
+    "东莞^^34^^dg^^dg": {
+        "city_name": "东莞",
+        "city_id": "34",
+        "url": "https:\/\/m.anjuke.com\/dg\/"
+    },
+    "德阳^^97^^deyang^^de": {
+        "city_name": "德阳",
+        "city_id": "97",
+        "url": "https:\/\/m.anjuke.com\/de\/"
+    },
+    "大理^^102^^dali^^da": {
+        "city_name": "大理",
+        "city_id": "102",
+        "url": "https:\/\/m.anjuke.com\/da\/"
+    },
+    "德州^^111^^dezhou^^dz": {
+        "city_name": "德州",
+        "city_id": "111",
+        "url": "https:\/\/m.anjuke.com\/dz\/"
+    },
+    "东营^^118^^dongying^^dy": {
+        "city_name": "东营",
+        "city_id": "118",
+        "url": "https:\/\/m.anjuke.com\/dy\/"
+    },
+    "大庆^^128^^daqing^^dq": {
+        "city_name": "大庆",
+        "city_id": "128",
+        "url": "https:\/\/m.anjuke.com\/dq\/"
+    },
+    "丹东^^177^^dandong^^dd": {
+        "city_name": "丹东",
+        "city_id": "177",
+        "url": "https:\/\/m.anjuke.com\/dd\/"
+    },
+    "大同^^205^^datong^^dt": {
+        "city_name": "大同",
+        "city_id": "205",
+        "url": "https:\/\/m.anjuke.com\/dt\/"
+    },
+    "达州^^213^^dazhou^^dzh": {
+        "city_name": "达州",
+        "city_id": "213",
+        "url": "https:\/\/m.anjuke.com\/dzh\/"
+    },
+    "大丰^^308^^dafeng^^df": {
+        "city_name": "大丰",
+        "city_id": "308",
+        "url": "https:\/\/m.anjuke.com\/df\/"
+    },
+    "德宏^^309^^dehong^^dh": {
+        "city_name": "德宏",
+        "city_id": "309",
+        "url": "https:\/\/m.anjuke.com\/dh\/"
+    },
+    "定州^^310^^dingzhou^^ding": {
+        "city_name": "定州",
+        "city_id": "310",
+        "url": "https:\/\/m.anjuke.com\/ding\/"
+    },
+    "迪庆^^311^^diqing^^diq": {
+        "city_name": "迪庆",
+        "city_id": "311",
+        "url": "https:\/\/m.anjuke.com\/diq\/"
+    },
+    "定西^^312^^dingxi^^dx": {
+        "city_name": "定西",
+        "city_id": "312",
+        "url": "https:\/\/m.anjuke.com\/dx\/"
+    },
+    "大兴安岭^^313^^dxanling^^dxal": {
+        "city_name": "大兴安岭",
+        "city_id": "313",
+        "url": "https:\/\/m.anjuke.com\/dxal\/"
+    },
+    "东台^^411^^dongtai^^dongt": {
+        "city_name": "东台",
+        "city_id": "411",
+        "url": "https:\/\/m.anjuke.com\/dongt\/"
+    },
+    "邓州^^627^^dengzhou^^dengz": {
+        "city_name": "邓州",
+        "city_id": "627",
+        "url": "https:\/\/m.anjuke.com\/dengz\/"
+    },
+    "东方^^441^^dongfang^^dfx": {
+        "city_name": "东方",
+        "city_id": "441",
+        "url": "https:\/\/m.anjuke.com\/dfx\/"
+    },
+    "儋州^^448^^danzhou^^danz": {
+        "city_name": "儋州",
+        "city_id": "448",
+        "url": "https:\/\/m.anjuke.com\/danz\/"
+    },
+    "丹阳^^413^^danyang^^danyangshi": {
+        "city_name": "丹阳",
+        "city_id": "413",
+        "url": "https:\/\/m.anjuke.com\/danyangshi\/"
+    },
+    "灯塔^^819^^dengta^^dengt": {
+        "city_name": "灯塔",
+        "city_id": "819",
+        "url": "https:\/\/m.anjuke.com\/dengt\/"
+    },
+    "敦煌^^835^^dunhuang^^dunh": {
+        "city_name": "敦煌",
+        "city_id": "835",
+        "url": "https:\/\/m.anjuke.com\/dunh\/"
+    },
+    "都匀^^873^^duyun^^duy": {
+        "city_name": "都匀",
+        "city_id": "873",
+        "url": "https:\/\/m.anjuke.com\/duy\/"
+    },
+    "东阳^^410^^dongyang^^dongyang": {
+        "city_name": "东阳",
+        "city_id": "410",
+        "url": "https:\/\/m.anjuke.com\/dongyang\/"
+    },
+    "东至^^1021^^dongzhixian^^dongz": {
+        "city_name": "东至",
+        "city_id": "1021",
+        "url": "https:\/\/m.anjuke.com\/dongz\/"
+    },
+    "德清^^421^^deqingxian^^deqing": {
+        "city_name": "德清",
+        "city_id": "421",
+        "url": "https:\/\/m.anjuke.com\/deqing\/"
+    },
+    "东海^^423^^donghaixian^^donghai": {
+        "city_name": "东海",
+        "city_id": "423",
+        "url": "https:\/\/m.anjuke.com\/donghai\/"
+    },
+    "单县^^581^^danxian^^shanxian": {
+        "city_name": "单县",
+        "city_id": "581",
+        "url": "https:\/\/m.anjuke.com\/shanxian\/"
+    },
+    "凤城^^641^^ddfengcheng^^ddfc": {
+        "city_name": "凤城",
+        "city_id": "641",
+        "url": "https:\/\/m.anjuke.com\/ddfc\/"
+    },
+    "禹城^^931^^dzyucheng^^dzyc": {
+        "city_name": "禹城",
+        "city_id": "931",
+        "url": "https:\/\/m.anjuke.com\/dzyc\/"
+    },
+    "大竹^^959^^dazhu^^dzsc": {
+        "city_name": "大竹",
+        "city_id": "959",
+        "url": "https:\/\/m.anjuke.com\/dzsc\/"
+    },
+    "定边^^964^^dingbianxian^^db": {
+        "city_name": "定边",
+        "city_id": "964",
+        "url": "https:\/\/m.anjuke.com\/db\/"
+    },
+    "东明^^965^^dongmingxian^^dm": {
+        "city_name": "东明",
+        "city_id": "965",
+        "url": "https:\/\/m.anjuke.com\/dm\/"
+    },
+    "东平^^966^^dongpingxian^^dp": {
+        "city_name": "东平",
+        "city_id": "966",
+        "url": "https:\/\/m.anjuke.com\/dp\/"
+    },
+    "大悟^^999^^dawuxian^^dw": {
+        "city_name": "大悟",
+        "city_id": "999",
+        "url": "https:\/\/m.anjuke.com\/dw\/"
+    },
+    "鄂尔多斯^^164^^eerduosi^^eeds": {
+        "city_name": "鄂尔多斯",
+        "city_id": "164",
+        "url": "https:\/\/m.anjuke.com\/eeds\/"
+    },
+    "恩施^^252^^enshi^^es": {
+        "city_name": "恩施",
+        "city_id": "252",
+        "url": "https:\/\/m.anjuke.com\/es\/"
+    },
+    "鄂州^^265^^ezhou^^ez": {
+        "city_name": "鄂州",
+        "city_id": "265",
+        "url": "https:\/\/m.anjuke.com\/ez\/"
+    },
+    "峨眉山^^635^^emeishan^^ems": {
+        "city_name": "峨眉山",
+        "city_id": "635",
+        "url": "https:\/\/m.anjuke.com\/ems\/"
+    },
+    "佛山^^24^^foshan^^fs": {
+        "city_name": "佛山",
+        "city_id": "24",
+        "url": "https:\/\/m.anjuke.com\/fs\/"
+    },
+    "福州^^35^^fz^^fz": {
+        "city_name": "福州",
+        "city_id": "35",
+        "url": "https:\/\/m.anjuke.com\/fz\/"
+    },
+    "阜阳^^86^^fuyang^^fy": {
+        "city_name": "阜阳",
+        "city_id": "86",
+        "url": "https:\/\/m.anjuke.com\/fy\/"
+    },
+    "抚顺^^188^^fushun^^fsh": {
+        "city_name": "抚顺",
+        "city_id": "188",
+        "url": "https:\/\/m.anjuke.com\/fsh\/"
+    },
+    "阜新^^217^^fuxin^^fx": {
+        "city_name": "阜新",
+        "city_id": "217",
+        "url": "https:\/\/m.anjuke.com\/fx\/"
+    },
+    "抚州^^219^^fuzhoushi^^fuz": {
+        "city_name": "抚州",
+        "city_id": "219",
+        "url": "https:\/\/m.anjuke.com\/fuz\/"
+    },
+    "防城港^^314^^fangchenggang^^fcg": {
+        "city_name": "防城港",
+        "city_id": "314",
+        "url": "https:\/\/m.anjuke.com\/fcg\/"
+    },
+    "肥城市^^558^^feichengshi^^fcs": {
+        "city_name": "肥城市",
+        "city_id": "558",
+        "url": "https:\/\/m.anjuke.com\/fcs\/"
+    },
+    "丰城^^644^^fengchengshi^^fengc": {
+        "city_name": "丰城",
+        "city_id": "644",
+        "url": "https:\/\/m.anjuke.com\/fengc\/"
+    },
+    "福安^^639^^fuan^^fa": {
+        "city_name": "福安",
+        "city_id": "639",
+        "url": "https:\/\/m.anjuke.com\/fa\/"
+    },
+    "福鼎^^904^^fuding^^fding": {
+        "city_name": "福鼎",
+        "city_id": "904",
+        "url": "https:\/\/m.anjuke.com\/fding\/"
+    },
+    "范县^^1000^^fanxian^^fanx": {
+        "city_name": "范县",
+        "city_id": "1000",
+        "url": "https:\/\/m.anjuke.com\/fanx\/"
+    },
+    "分宜^^1022^^fenyixian^^fyxy": {
+        "city_name": "分宜",
+        "city_id": "1022",
+        "url": "https:\/\/m.anjuke.com\/fyxy\/"
+    },
+    "扶余^^1023^^fuyushi^^fuy": {
+        "city_name": "扶余",
+        "city_id": "1023",
+        "url": "https:\/\/m.anjuke.com\/fuy\/"
+    },
+    "阜宁^^637^^funing^^fn": {
+        "city_name": "阜宁",
+        "city_id": "637",
+        "url": "https:\/\/m.anjuke.com\/fn\/"
+    },
+    "浮梁^^950^^fuliang^^fl": {
+        "city_name": "浮梁",
+        "city_id": "950",
+        "url": "https:\/\/m.anjuke.com\/fl\/"
+    },
+    "府谷^^967^^fuguxian^^gf": {
+        "city_name": "府谷",
+        "city_id": "967",
+        "url": "https:\/\/m.anjuke.com\/gf\/"
+    },
+    "广州^^12^^guangzhou^^gz": {
+        "city_name": "广州",
+        "city_id": "12",
+        "url": "https:\/\/m.anjuke.com\/gz\/"
+    },
+    "贵阳^^37^^gy^^gy": {
+        "city_name": "贵阳",
+        "city_id": "37",
+        "url": "https:\/\/m.anjuke.com\/gy\/"
+    },
+    "桂林^^54^^guilin^^gl": {
+        "city_name": "桂林",
+        "city_id": "54",
+        "url": "https:\/\/m.anjuke.com\/gl\/"
+    },
+    "赣州^^93^^ganzhou^^gan": {
+        "city_name": "赣州",
+        "city_id": "93",
+        "url": "https:\/\/m.anjuke.com\/gan\/"
+    },
+    "广安^^99^^guangan^^ga": {
+        "city_name": "广安",
+        "city_id": "99",
+        "url": "https:\/\/m.anjuke.com\/ga\/"
+    },
+    "贵港^^201^^guigang^^gg": {
+        "city_name": "贵港",
+        "city_id": "201",
+        "url": "https:\/\/m.anjuke.com\/gg\/"
+    },
+    "广元^^255^^guangyuan^^guang": {
+        "city_name": "广元",
+        "city_id": "255",
+        "url": "https:\/\/m.anjuke.com\/guang\/"
+    },
+    "甘孜^^315^^ganzi^^gaz": {
+        "city_name": "甘孜",
+        "city_id": "315",
+        "url": "https:\/\/m.anjuke.com\/gaz\/"
+    },
+    "甘南^^316^^gannan^^gn": {
+        "city_name": "甘南",
+        "city_id": "316",
+        "url": "https:\/\/m.anjuke.com\/gn\/"
+    },
+    "馆陶^^317^^guantao^^gt": {
+        "city_name": "馆陶",
+        "city_id": "317",
+        "url": "https:\/\/m.anjuke.com\/gt\/"
+    },
+    "果洛^^318^^guoluo^^guo": {
+        "city_name": "果洛",
+        "city_id": "318",
+        "url": "https:\/\/m.anjuke.com\/guo\/"
+    },
+    "固原^^319^^guyuan^^gu": {
+        "city_name": "固原",
+        "city_id": "319",
+        "url": "https:\/\/m.anjuke.com\/gu\/"
+    },
+    "公主岭市^^566^^gongzhulingshi^^gzls": {
+        "city_name": "公主岭市",
+        "city_id": "566",
+        "url": "https:\/\/m.anjuke.com\/gzls\/"
+    },
+    "高密市^^593^^gaomishi^^gms": {
+        "city_name": "高密市",
+        "city_id": "593",
+        "url": "https:\/\/m.anjuke.com\/gms\/"
+    },
+    "格尔木^^837^^geermu^^gem": {
+        "city_name": "格尔木",
+        "city_id": "837",
+        "url": "https:\/\/m.anjuke.com\/gem\/"
+    },
+    "广汉^^578^^guanghan^^gh": {
+        "city_name": "广汉",
+        "city_id": "578",
+        "url": "https:\/\/m.anjuke.com\/gh\/"
+    },
+    "桂平^^880^^guiping^^gp": {
+        "city_name": "桂平",
+        "city_id": "880",
+        "url": "https:\/\/m.anjuke.com\/gp\/"
+    },
+    "高安^^888^^gaoanshi^^gaoanshi": {
+        "city_name": "高安",
+        "city_id": "888",
+        "url": "https:\/\/m.anjuke.com\/gaoanshi\/"
+    },
+    "固始^^1001^^gushixian^^gs": {
+        "city_name": "固始",
+        "city_id": "1001",
+        "url": "https:\/\/m.anjuke.com\/gs\/"
+    },
+    "桂阳^^1002^^guiyangxian^^guiy": {
+        "city_name": "桂阳",
+        "city_id": "1002",
+        "url": "https:\/\/m.anjuke.com\/guiy\/"
+    },
+    "高平^^1024^^gaopingshi^^gaop": {
+        "city_name": "高平",
+        "city_id": "1024",
+        "url": "https:\/\/m.anjuke.com\/gaop\/"
+    },
+    "广饶县^^556^^guangraoxian^^guangrao": {
+        "city_name": "广饶县",
+        "city_id": "556",
+        "url": "https:\/\/m.anjuke.com\/guangrao\/"
+    },
+    "灌云县^^580^^guanyunxian^^guanyun": {
+        "city_name": "灌云县",
+        "city_id": "580",
+        "url": "https:\/\/m.anjuke.com\/guanyun\/"
+    },
+    "灌南县^^582^^guannanxian^^guannan": {
+        "city_name": "灌南县",
+        "city_id": "582",
+        "url": "https:\/\/m.anjuke.com\/guannan\/"
+    },
+    "固安^^650^^guan^^gua": {
+        "city_name": "固安",
+        "city_id": "650",
+        "url": "https:\/\/m.anjuke.com\/gua\/"
+    },
+    "谷城^^956^^gucheng^^gc": {
+        "city_name": "谷城",
+        "city_id": "956",
+        "url": "https:\/\/m.anjuke.com\/gc\/"
+    },
+    "高唐^^968^^gaotangxian^^gaot": {
+        "city_name": "高唐",
+        "city_id": "968",
+        "url": "https:\/\/m.anjuke.com\/gaot\/"
+    },
+    "冠县^^969^^guanxian^^gx": {
+        "city_name": "冠县",
+        "city_id": "969",
+        "url": "https:\/\/m.anjuke.com\/gx\/"
+    },
+    "改则^^432^^gaizexian^^gaizexian": {
+        "city_name": "改则",
+        "city_id": "432",
+        "url": "https:\/\/m.anjuke.com\/gaizexian\/"
+    },
+    "杭州^^18^^hangzhou^^hz": {
+        "city_name": "杭州",
+        "city_id": "18",
+        "url": "https:\/\/m.anjuke.com\/hz\/"
+    },
+    "合肥^^33^^hf^^hf": {
+        "city_name": "合肥",
+        "city_id": "33",
+        "url": "https:\/\/m.anjuke.com\/hf\/"
+    },
+    "哈尔滨^^48^^heb^^heb": {
+        "city_name": "哈尔滨",
+        "city_id": "48",
+        "url": "https:\/\/m.anjuke.com\/heb\/"
+    },
+    "海口^^49^^haikou^^hai": {
+        "city_name": "海口",
+        "city_id": "49",
+        "url": "https:\/\/m.anjuke.com\/hai\/"
+    },
+    "惠州^^52^^huizhou^^hui": {
+        "city_name": "惠州",
+        "city_id": "52",
+        "url": "https:\/\/m.anjuke.com\/hui\/"
+    },
+    "邯郸^^55^^handan^^hd": {
+        "city_name": "邯郸",
+        "city_id": "55",
+        "url": "https:\/\/m.anjuke.com\/hd\/"
+    },
+    "呼和浩特^^56^^huhehaote^^hhht": {
+        "city_name": "呼和浩特",
+        "city_id": "56",
+        "url": "https:\/\/m.anjuke.com\/hhht\/"
+    },
+    "黄冈^^82^^huanggang^^hg": {
+        "city_name": "黄冈",
+        "city_id": "82",
+        "url": "https:\/\/m.anjuke.com\/hg\/"
+    },
+    "淮南^^84^^huainan^^hn": {
+        "city_name": "淮南",
+        "city_id": "84",
+        "url": "https:\/\/m.anjuke.com\/hn\/"
+    },
+    "黄山^^85^^huangshan^^hsh": {
+        "city_name": "黄山",
+        "city_id": "85",
+        "url": "https:\/\/m.anjuke.com\/hsh\/"
+    },
+    "鹤壁^^90^^hebi^^hb": {
+        "city_name": "鹤壁",
+        "city_id": "90",
+        "url": "https:\/\/m.anjuke.com\/hb\/"
+    },
+    "衡阳^^110^^hengyang^^hy": {
+        "city_name": "衡阳",
+        "city_id": "110",
+        "url": "https:\/\/m.anjuke.com\/hy\/"
+    },
+    "湖州^^131^^huzhou^^hu": {
+        "city_name": "湖州",
+        "city_id": "131",
+        "url": "https:\/\/m.anjuke.com\/hu\/"
+    },
+    "衡水^^140^^hengshui^^hs": {
+        "city_name": "衡水",
+        "city_id": "140",
+        "url": "https:\/\/m.anjuke.com\/hs\/"
+    },
+    "汉中^^163^^hanzhong^^han": {
+        "city_name": "汉中",
+        "city_id": "163",
+        "url": "https:\/\/m.anjuke.com\/han\/"
+    },
+    "淮安^^169^^huaian^^ha": {
+        "city_name": "淮安",
+        "city_id": "169",
+        "url": "https:\/\/m.anjuke.com\/ha\/"
+    },
+    "黄石^^174^^huangshi^^huang": {
+        "city_name": "黄石",
+        "city_id": "174",
+        "url": "https:\/\/m.anjuke.com\/huang\/"
+    },
+    "菏泽^^183^^heze^^hez": {
+        "city_name": "菏泽",
+        "city_id": "183",
+        "url": "https:\/\/m.anjuke.com\/hez\/"
+    },
+    "怀化^^189^^huaihua^^hh": {
+        "city_name": "怀化",
+        "city_id": "189",
+        "url": "https:\/\/m.anjuke.com\/hh\/"
+    },
+    "淮北^^212^^huaibei^^huai": {
+        "city_name": "淮北",
+        "city_id": "212",
+        "url": "https:\/\/m.anjuke.com\/huai\/"
+    },
+    "葫芦岛^^216^^huludao^^hld": {
+        "city_name": "葫芦岛",
+        "city_id": "216",
+        "url": "https:\/\/m.anjuke.com\/hld\/"
+    },
+    "河源^^226^^heyuan^^he": {
+        "city_name": "河源",
+        "city_id": "226",
+        "url": "https:\/\/m.anjuke.com\/he\/"
+    },
+    "红河^^243^^honghe^^hong": {
+        "city_name": "红河",
+        "city_id": "243",
+        "url": "https:\/\/m.anjuke.com\/hong\/"
+    },
+    "哈密^^267^^hami^^hami": {
+        "city_name": "哈密",
+        "city_id": "267",
+        "url": "https:\/\/m.anjuke.com\/hami\/"
+    },
+    "鹤岗^^287^^hegang^^heg": {
+        "city_name": "鹤岗",
+        "city_id": "287",
+        "url": "https:\/\/m.anjuke.com\/heg\/"
+    },
+    "呼伦贝尔^^291^^hulunbeier^^hlbe": {
+        "city_name": "呼伦贝尔",
+        "city_id": "291",
+        "url": "https:\/\/m.anjuke.com\/hlbe\/"
+    },
+    "海北^^320^^haibei^^haib": {
+        "city_name": "海北",
+        "city_id": "320",
+        "url": "https:\/\/m.anjuke.com\/haib\/"
+    },
+    "海东^^321^^haidong^^haid": {
+        "city_name": "海东",
+        "city_id": "321",
+        "url": "https:\/\/m.anjuke.com\/haid\/"
+    },
+    "海南^^322^^hainan^^hain": {
+        "city_name": "海南",
+        "city_id": "322",
+        "url": "https:\/\/m.anjuke.com\/hain\/"
+    },
+    "河池^^323^^hechi^^hc": {
+        "city_name": "河池",
+        "city_id": "323",
+        "url": "https:\/\/m.anjuke.com\/hc\/"
+    },
+    "黑河^^324^^heihe^^heih": {
+        "city_name": "黑河",
+        "city_id": "324",
+        "url": "https:\/\/m.anjuke.com\/heih\/"
+    },
+    "和县^^325^^hexian^^hex": {
+        "city_name": "和县",
+        "city_id": "325",
+        "url": "https:\/\/m.anjuke.com\/hex\/"
+    },
+    "贺州^^326^^hezhou^^hezh": {
+        "city_name": "贺州",
+        "city_id": "326",
+        "url": "https:\/\/m.anjuke.com\/hezh\/"
+    },
+    "海拉尔^^328^^hailaer^^hlr": {
+        "city_name": "海拉尔",
+        "city_id": "328",
+        "url": "https:\/\/m.anjuke.com\/hlr\/"
+    },
+    "霍邱^^329^^huoqiu^^hq": {
+        "city_name": "霍邱",
+        "city_id": "329",
+        "url": "https:\/\/m.anjuke.com\/hq\/"
+    },
+    "和田^^330^^hetian^^ht": {
+        "city_name": "和田",
+        "city_id": "330",
+        "url": "https:\/\/m.anjuke.com\/ht\/"
+    },
+    "黄南^^331^^huangnan^^huangn": {
+        "city_name": "黄南",
+        "city_id": "331",
+        "url": "https:\/\/m.anjuke.com\/huangn\/"
+    },
+    "海西^^332^^hexi^^hx": {
+        "city_name": "海西",
+        "city_id": "332",
+        "url": "https:\/\/m.anjuke.com\/hx\/"
+    },
+    "黄骅^^830^^huanghua^^huangh": {
+        "city_name": "黄骅",
+        "city_id": "830",
+        "url": "https:\/\/m.anjuke.com\/huangh\/"
+    },
+    "河间^^831^^hejian^^hj": {
+        "city_name": "河间",
+        "city_id": "831",
+        "url": "https:\/\/m.anjuke.com\/hj\/"
+    },
+    "韩城^^838^^hancheng^^hanch": {
+        "city_name": "韩城",
+        "city_id": "838",
+        "url": "https:\/\/m.anjuke.com\/hanch\/"
+    },
+    "汉川市^^569^^hanchuanshi^^hanchuansh": {
+        "city_name": "汉川市",
+        "city_id": "569",
+        "url": "https:\/\/m.anjuke.com\/hanchuansh\/"
+    },
+    "海门^^401^^haimen^^hm": {
+        "city_name": "海门",
+        "city_id": "401",
+        "url": "https:\/\/m.anjuke.com\/hm\/"
+    },
+    "海宁^^408^^haining^^haining": {
+        "city_name": "海宁",
+        "city_id": "408",
+        "url": "https:\/\/m.anjuke.com\/haining\/"
+    },
+    "淮滨^^1003^^huaibinxian^^huaib": {
+        "city_name": "淮滨",
+        "city_id": "1003",
+        "url": "https:\/\/m.anjuke.com\/huaib\/"
+    },
+    "海安^^402^^haianxian^^haian": {
+        "city_name": "海安",
+        "city_id": "402",
+        "url": "https:\/\/m.anjuke.com\/haian\/"
+    },
+    "惠东^^418^^huidongxian^^huidong": {
+        "city_name": "惠东",
+        "city_id": "418",
+        "url": "https:\/\/m.anjuke.com\/huidong\/"
+    },
+    "海丰县^^587^^haifengxian^^haifengxian": {
+        "city_name": "海丰县",
+        "city_id": "587",
+        "url": "https:\/\/m.anjuke.com\/haifengxian\/"
+    },
+    "桓台县^^596^^huantaixian^^huantaixian": {
+        "city_name": "桓台县",
+        "city_id": "596",
+        "url": "https:\/\/m.anjuke.com\/huantaixian\/"
+    },
+    "常宁^^620^^hychangning^^hycn": {
+        "city_name": "常宁",
+        "city_id": "620",
+        "url": "https:\/\/m.anjuke.com\/hycn\/"
+    },
+    "海盐^^667^^haiyan^^haiyan": {
+        "city_name": "海盐",
+        "city_id": "667",
+        "url": "https:\/\/m.anjuke.com\/haiyan\/"
+    },
+    "永城^^777^^hnyongcheng^^hnyc": {
+        "city_name": "永城",
+        "city_id": "777",
+        "url": "https:\/\/m.anjuke.com\/hnyc\/"
+    },
+    "滑县^^951^^huaxian^^huax": {
+        "city_name": "滑县",
+        "city_id": "951",
+        "url": "https:\/\/m.anjuke.com\/huax\/"
+    },
+    "衡东^^970^^hengdongxian^^hengd": {
+        "city_name": "衡东",
+        "city_id": "970",
+        "url": "https:\/\/m.anjuke.com\/hengd\/"
+    },
+    "华容^^971^^huarongxian^^hr": {
+        "city_name": "华容",
+        "city_id": "971",
+        "url": "https:\/\/m.anjuke.com\/hr\/"
+    },
+    "济南^^23^^jinan^^jn": {
+        "city_name": "济南",
+        "city_id": "23",
+        "url": "https:\/\/m.anjuke.com\/jn\/"
+    },
+    "嘉兴^^45^^jx^^jx": {
+        "city_name": "嘉兴",
+        "city_id": "45",
+        "url": "https:\/\/m.anjuke.com\/jx\/"
+    },
+    "吉林^^57^^jilin^^jl": {
+        "city_name": "吉林",
+        "city_id": "57",
+        "url": "https:\/\/m.anjuke.com\/jl\/"
+    },
+    "江门^^78^^jiangmen^^jm": {
+        "city_name": "江门",
+        "city_id": "78",
+        "url": "https:\/\/m.anjuke.com\/jm\/"
+    },
+    "荆门^^81^^jingmen^^jing": {
+        "city_name": "荆门",
+        "city_id": "81",
+        "url": "https:\/\/m.anjuke.com\/jing\/"
+    },
+    "锦州^^91^^jinzhou^^jz": {
+        "city_name": "锦州",
+        "city_id": "91",
+        "url": "https:\/\/m.anjuke.com\/jz\/"
+    },
+    "景德镇^^92^^jingdezhen^^jdz": {
+        "city_name": "景德镇",
+        "city_id": "92",
+        "url": "https:\/\/m.anjuke.com\/jdz\/"
+    },
+    "吉安^^94^^jian^^ja": {
+        "city_name": "吉安",
+        "city_id": "94",
+        "url": "https:\/\/m.anjuke.com\/ja\/"
+    },
+    "济宁^^108^^jining^^ji": {
+        "city_name": "济宁",
+        "city_id": "108",
+        "url": "https:\/\/m.anjuke.com\/ji\/"
+    },
+    "金华^^112^^jinhua^^jh": {
+        "city_name": "金华",
+        "city_id": "112",
+        "url": "https:\/\/m.anjuke.com\/jh\/"
+    },
+    "揭阳^^124^^jieyang^^jy": {
+        "city_name": "揭阳",
+        "city_id": "124",
+        "url": "https:\/\/m.anjuke.com\/jy\/"
+    },
+    "晋中^^147^^jinzhong^^jin": {
+        "city_name": "晋中",
+        "city_id": "147",
+        "url": "https:\/\/m.anjuke.com\/jin\/"
+    },
+    "九江^^154^^jiujiang^^jj": {
+        "city_name": "九江",
+        "city_id": "154",
+        "url": "https:\/\/m.anjuke.com\/jj\/"
+    },
+    "焦作^^159^^jiaozuo^^jiao": {
+        "city_name": "焦作",
+        "city_id": "159",
+        "url": "https:\/\/m.anjuke.com\/jiao\/"
+    },
+    "晋城^^167^^jincheng^^jc": {
+        "city_name": "晋城",
+        "city_id": "167",
+        "url": "https:\/\/m.anjuke.com\/jc\/"
+    },
+    "荆州^^181^^jingzhou^^jzh": {
+        "city_name": "荆州",
+        "city_id": "181",
+        "url": "https:\/\/m.anjuke.com\/jzh\/"
+    },
+    "佳木斯^^202^^jiamusi^^jms": {
+        "city_name": "佳木斯",
+        "city_id": "202",
+        "url": "https:\/\/m.anjuke.com\/jms\/"
+    },
+    "酒泉^^259^^jiuquan^^jq": {
+        "city_name": "酒泉",
+        "city_id": "259",
+        "url": "https:\/\/m.anjuke.com\/jq\/"
+    },
+    "鸡西^^278^^jixi^^jixi": {
+        "city_name": "鸡西",
+        "city_id": "278",
+        "url": "https:\/\/m.anjuke.com\/jixi\/"
+    },
+    "济源^^279^^jiyuan^^jiy": {
+        "city_name": "济源",
+        "city_id": "279",
+        "url": "https:\/\/m.anjuke.com\/jiy\/"
+    },
+    "金昌^^333^^jinchang^^jinc": {
+        "city_name": "金昌",
+        "city_id": "333",
+        "url": "https:\/\/m.anjuke.com\/jinc\/"
+    },
+    "嘉峪关^^334^^jiayuguan^^jyg": {
+        "city_name": "嘉峪关",
+        "city_id": "334",
+        "url": "https:\/\/m.anjuke.com\/jyg\/"
+    },
+    "江阴^^603^^jiangyin^^jiangy": {
+        "city_name": "江阴",
+        "city_id": "603",
+        "url": "https:\/\/m.anjuke.com\/jiangy\/"
+    },
+    "靖江^^416^^jingjiang^^jingj": {
+        "city_name": "靖江",
+        "city_id": "416",
+        "url": "https:\/\/m.anjuke.com\/jingj\/"
+    },
+    "简阳市^^571^^jianyangshi^^jys": {
+        "city_name": "简阳市",
+        "city_id": "571",
+        "url": "https:\/\/m.anjuke.com\/jys\/"
+    },
+    "晋江^^397^^jinjiangshi^^jinjiangs": {
+        "city_name": "晋江",
+        "city_id": "397",
+        "url": "https:\/\/m.anjuke.com\/jinjiangs\/"
+    },
+    "句容^^670^^jurong^^jr": {
+        "city_name": "句容",
+        "city_id": "670",
+        "url": "https:\/\/m.anjuke.com\/jr\/"
+    },
+    "江油市^^806^^jiangyoushi^^jyou": {
+        "city_name": "江油市",
+        "city_id": "806",
+        "url": "https:\/\/m.anjuke.com\/jyou\/"
+    },
+    "嘉鱼^^1025^^jiayuxian^^jiay": {
+        "city_name": "嘉鱼",
+        "city_id": "1025",
+        "url": "https:\/\/m.anjuke.com\/jiay\/"
+    },
+    "建湖^^412^^jianhuxian^^jianhu": {
+        "city_name": "建湖",
+        "city_id": "412",
+        "url": "https:\/\/m.anjuke.com\/jianhu\/"
+    },
+    "嘉善^^450^^jiashanxian^^jiashanx": {
+        "city_name": "嘉善",
+        "city_id": "450",
+        "url": "https:\/\/m.anjuke.com\/jiashanx\/"
+    },
+    "莒县^^575^^juxian^^juxian": {
+        "city_name": "莒县",
+        "city_id": "575",
+        "url": "https:\/\/m.anjuke.com\/juxian\/"
+    },
+    "昌邑^^621^^jlchangyi^^jlcy": {
+        "city_name": "昌邑",
+        "city_id": "621",
+        "url": "https:\/\/m.anjuke.com\/jlcy\/"
+    },
+    "桦甸^^660^^jlhuadian^^jlhd": {
+        "city_name": "桦甸",
+        "city_id": "660",
+        "url": "https:\/\/m.anjuke.com\/jlhd\/"
+    },
+    "京山^^672^^jmjingshan^^jmjs": {
+        "city_name": "京山",
+        "city_id": "672",
+        "url": "https:\/\/m.anjuke.com\/jmjs\/"
+    },
+    "进贤^^674^^jinxian^^jinx": {
+        "city_name": "进贤",
+        "city_id": "674",
+        "url": "https:\/\/m.anjuke.com\/jinx\/"
+    },
+    "金湖^^676^^jinhu^^jinh": {
+        "city_name": "金湖",
+        "city_id": "676",
+        "url": "https:\/\/m.anjuke.com\/jinh\/"
+    },
+    "钟祥^^791^^jmzhongxiang^^jmzx": {
+        "city_name": "钟祥",
+        "city_id": "791",
+        "url": "https:\/\/m.anjuke.com\/jmzx\/"
+    },
+    "孟州^^843^^jzmengzhou^^jzmz": {
+        "city_name": "孟州",
+        "city_id": "843",
+        "url": "https:\/\/m.anjuke.com\/jzmz\/"
+    },
+    "靖边^^972^^jingbianxian^^jb": {
+        "city_name": "靖边",
+        "city_id": "972",
+        "url": "https:\/\/m.anjuke.com\/jb\/"
+    },
+    "巨野^^973^^juyexian^^jyhz": {
+        "city_name": "巨野",
+        "city_id": "973",
+        "url": "https:\/\/m.anjuke.com\/jyhz\/"
+    },
+    "鄄城^^974^^juanchengxian^^juanc": {
+        "city_name": "鄄城",
+        "city_id": "974",
+        "url": "https:\/\/m.anjuke.com\/juanc\/"
+    },
+    "姜堰^^561^^jiangyan^^jiangyan": {
+        "city_name": "姜堰",
+        "city_id": "561",
+        "url": "https:\/\/m.anjuke.com\/jiangyan\/"
+    },
+    "昆明^^36^^km^^km": {
+        "city_name": "昆明",
+        "city_id": "36",
+        "url": "https:\/\/m.anjuke.com\/km\/"
+    },
+    "昆山^^40^^ks^^ks": {
+        "city_name": "昆山",
+        "city_id": "40",
+        "url": "https:\/\/m.anjuke.com\/ks\/"
+    },
+    "开封^^89^^kaifeng^^kf": {
+        "city_name": "开封",
+        "city_id": "89",
+        "url": "https:\/\/m.anjuke.com\/kf\/"
+    },
+    "喀什^^250^^kashi^^ka": {
+        "city_name": "喀什",
+        "city_id": "250",
+        "url": "https:\/\/m.anjuke.com\/ka\/"
+    },
+    "克拉玛依^^274^^kelamayi^^klmy": {
+        "city_name": "克拉玛依",
+        "city_id": "274",
+        "url": "https:\/\/m.anjuke.com\/klmy\/"
+    },
+    "垦利^^335^^kenli^^kl": {
+        "city_name": "垦利",
+        "city_id": "335",
+        "url": "https:\/\/m.anjuke.com\/kl\/"
+    },
+    "凯里^^686^^kaili^^kli": {
+        "city_name": "凯里",
+        "city_id": "686",
+        "url": "https:\/\/m.anjuke.com\/kli\/"
+    },
+    "开平^^688^^kaiping^^kp": {
+        "city_name": "开平",
+        "city_id": "688",
+        "url": "https:\/\/m.anjuke.com\/kp\/"
+    },
+    "兰考^^706^^kflankao^^kflk": {
+        "city_name": "兰考",
+        "city_id": "706",
+        "url": "https:\/\/m.anjuke.com\/kflk\/"
+    },
+    "兰州^^58^^lanzhou^^lz": {
+        "city_name": "兰州",
+        "city_id": "58",
+        "url": "https:\/\/m.anjuke.com\/lz\/"
+    },
+    "廊坊^^59^^langfang^^lf": {
+        "city_name": "廊坊",
+        "city_id": "59",
+        "url": "https:\/\/m.anjuke.com\/lf\/"
+    },
+    "洛阳^^60^^luoyang^^ly": {
+        "city_name": "洛阳",
+        "city_id": "60",
+        "url": "https:\/\/m.anjuke.com\/ly\/"
+    },
+    "柳州^^77^^liuzhou^^lzh": {
+        "city_name": "柳州",
+        "city_id": "77",
+        "url": "https:\/\/m.anjuke.com\/lzh\/"
+    },
+    "莱芜^^80^^laiwu^^lw": {
+        "city_name": "莱芜",
+        "city_id": "80",
+        "url": "https:\/\/m.anjuke.com\/lw\/"
+    },
+    "六安^^87^^luan^^la": {
+        "city_name": "六安",
+        "city_id": "87",
+        "url": "https:\/\/m.anjuke.com\/la\/"
+    },
+    "泸州^^96^^luzhou^^lu": {
+        "city_name": "泸州",
+        "city_id": "96",
+        "url": "https:\/\/m.anjuke.com\/lu\/"
+    },
+    "丽江^^101^^lijiang^^lj": {
+        "city_name": "丽江",
+        "city_id": "101",
+        "url": "https:\/\/m.anjuke.com\/lj\/"
+    },
+    "临沂^^120^^linyi^^liny": {
+        "city_name": "临沂",
+        "city_id": "120",
+        "url": "https:\/\/m.anjuke.com\/liny\/"
+    },
+    "聊城^^125^^liaocheng^^lc": {
+        "city_name": "聊城",
+        "city_id": "125",
+        "url": "https:\/\/m.anjuke.com\/lc\/"
+    },
+    "连云港^^130^^lianyungang^^lyg": {
+        "city_name": "连云港",
+        "city_id": "130",
+        "url": "https:\/\/m.anjuke.com\/lyg\/"
+    },
+    "丽水^^142^^lishui^^li": {
+        "city_name": "丽水",
+        "city_id": "142",
+        "url": "https:\/\/m.anjuke.com\/li\/"
+    },
+    "娄底^^149^^loudi^^ld": {
+        "city_name": "娄底",
+        "city_id": "149",
+        "url": "https:\/\/m.anjuke.com\/ld\/"
+    },
+    "乐山^^162^^leshan^^le": {
+        "city_name": "乐山",
+        "city_id": "162",
+        "url": "https:\/\/m.anjuke.com\/le\/"
+    },
+    "辽阳^^170^^liaoyang^^liao": {
+        "city_name": "辽阳",
+        "city_id": "170",
+        "url": "https:\/\/m.anjuke.com\/liao\/"
+    },
+    "拉萨^^178^^lasa^^ls": {
+        "city_name": "拉萨",
+        "city_id": "178",
+        "url": "https:\/\/m.anjuke.com\/ls\/"
+    },
+    "临汾^^185^^linfen^^lin": {
+        "city_name": "临汾",
+        "city_id": "185",
+        "url": "https:\/\/m.anjuke.com\/lin\/"
+    },
+    "龙岩^^199^^longyan^^long": {
+        "city_name": "龙岩",
+        "city_id": "199",
+        "url": "https:\/\/m.anjuke.com\/long\/"
+    },
+    "漯河^^208^^luohe^^lh": {
+        "city_name": "漯河",
+        "city_id": "208",
+        "url": "https:\/\/m.anjuke.com\/lh\/"
+    },
+    "凉山^^236^^liangshan^^liang": {
+        "city_name": "凉山",
+        "city_id": "236",
+        "url": "https:\/\/m.anjuke.com\/liang\/"
+    },
+    "六盘水^^256^^liupanshui^^lps": {
+        "city_name": "六盘水",
+        "city_id": "256",
+        "url": "https:\/\/m.anjuke.com\/lps\/"
+    },
+    "辽源^^288^^liaoyuan^^liaoy": {
+        "city_name": "辽源",
+        "city_id": "288",
+        "url": "https:\/\/m.anjuke.com\/liaoy\/"
+    },
+    "克孜勒苏^^336^^lezilesu^^kzls": {
+        "city_name": "克孜勒苏",
+        "city_id": "336",
+        "url": "https:\/\/m.anjuke.com\/kzls\/"
+    },
+    "来宾^^337^^laibin^^lb": {
+        "city_name": "来宾",
+        "city_id": "337",
+        "url": "https:\/\/m.anjuke.com\/lb\/"
+    },
+    "临沧^^338^^lingcang^^linc": {
+        "city_name": "临沧",
+        "city_id": "338",
+        "url": "https:\/\/m.anjuke.com\/linc\/"
+    },
+    "临夏^^339^^linxia^^lx": {
+        "city_name": "临夏",
+        "city_id": "339",
+        "url": "https:\/\/m.anjuke.com\/lx\/"
+    },
+    "临猗^^340^^linyishi^^linyis": {
+        "city_name": "临猗",
+        "city_id": "340",
+        "url": "https:\/\/m.anjuke.com\/linyis\/"
+    },
+    "林芝^^341^^linzhi^^lizh": {
+        "city_name": "林芝",
+        "city_id": "341",
+        "url": "https:\/\/m.anjuke.com\/lizh\/"
+    },
+    "陇南^^342^^longnan^^ln": {
+        "city_name": "陇南",
+        "city_id": "342",
+        "url": "https:\/\/m.anjuke.com\/ln\/"
+    },
+    "吕梁^^343^^lvliang^^lvl": {
+        "city_name": "吕梁",
+        "city_id": "343",
+        "url": "https:\/\/m.anjuke.com\/lvl\/"
+    },
+    "临海市^^563^^linhaishi^^lihs": {
+        "city_name": "临海市",
+        "city_id": "563",
+        "url": "https:\/\/m.anjuke.com\/lihs\/"
+    },
+    "醴陵市^^602^^lilingshi^^lls": {
+        "city_name": "醴陵市",
+        "city_id": "602",
+        "url": "https:\/\/m.anjuke.com\/lls\/"
+    },
+    "临清^^698^^linqing^^linq": {
+        "city_name": "临清",
+        "city_id": "698",
+        "url": "https:\/\/m.anjuke.com\/linq\/"
+    },
+    "龙口^^394^^longkou^^lk": {
+        "city_name": "龙口",
+        "city_id": "394",
+        "url": "https:\/\/m.anjuke.com\/lk\/"
+    },
+    "莱阳^^708^^laiyang^^lay": {
+        "city_name": "莱阳",
+        "city_id": "708",
+        "url": "https:\/\/m.anjuke.com\/lay\/"
+    },
+    "溧阳^^405^^liyang^^liy": {
+        "city_name": "溧阳",
+        "city_id": "405",
+        "url": "https:\/\/m.anjuke.com\/liy\/"
+    },
+    "灵宝市^^564^^lingbaoshi^^lingb": {
+        "city_name": "灵宝市",
+        "city_id": "564",
+        "url": "https:\/\/m.anjuke.com\/lingb\/"
+    },
+    "冷水江^^861^^lengshuijiang^^lshj": {
+        "city_name": "冷水江",
+        "city_id": "861",
+        "url": "https:\/\/m.anjuke.com\/lshj\/"
+    },
+    "涟源^^862^^lianyuan^^liany": {
+        "city_name": "涟源",
+        "city_id": "862",
+        "url": "https:\/\/m.anjuke.com\/liany\/"
+    },
+    "陆丰^^897^^lufengshi^^lufengshi": {
+        "city_name": "陆丰",
+        "city_id": "897",
+        "url": "https:\/\/m.anjuke.com\/lufengshi\/"
+    },
+    "乐平市^^585^^lepingshi^^lp": {
+        "city_name": "乐平市",
+        "city_id": "585",
+        "url": "https:\/\/m.anjuke.com\/lp\/"
+    },
+    "莱州市^^557^^laizhoushi^^lzs": {
+        "city_name": "莱州市",
+        "city_id": "557",
+        "url": "https:\/\/m.anjuke.com\/lzs\/"
+    },
+    "梨树^^1005^^lishuxian^^lis": {
+        "city_name": "梨树",
+        "city_id": "1005",
+        "url": "https:\/\/m.anjuke.com\/lis\/"
+    },
+    "利津^^1006^^lijingxian^^lij": {
+        "city_name": "利津",
+        "city_id": "1006",
+        "url": "https:\/\/m.anjuke.com\/lij\/"
+    },
+    "柳林^^1007^^liulinxian^^liul": {
+        "city_name": "柳林",
+        "city_id": "1007",
+        "url": "https:\/\/m.anjuke.com\/liul\/"
+    },
+    "滦南^^692^^luannan^^luann": {
+        "city_name": "滦南",
+        "city_id": "692",
+        "url": "https:\/\/m.anjuke.com\/luann\/"
+    },
+    "临朐^^697^^linju^^linj": {
+        "city_name": "临朐",
+        "city_id": "697",
+        "url": "https:\/\/m.anjuke.com\/linj\/"
+    },
+    "宜阳^^780^^lyyiyang^^lyyiy": {
+        "city_name": "宜阳",
+        "city_id": "780",
+        "url": "https:\/\/m.anjuke.com\/lyyiy\/"
+    },
+    "乐陵^^930^^leling^^ll": {
+        "city_name": "乐陵",
+        "city_id": "930",
+        "url": "https:\/\/m.anjuke.com\/ll\/"
+    },
+    "澧县^^949^^lixian^^lxcd": {
+        "city_name": "澧县",
+        "city_id": "949",
+        "url": "https:\/\/m.anjuke.com\/lxcd\/"
+    },
+    "梁山^^975^^liangshanxian^^liangs": {
+        "city_name": "梁山",
+        "city_id": "975",
+        "url": "https:\/\/m.anjuke.com\/liangs\/"
+    },
+    "临邑^^976^^linyixian^^lydz": {
+        "city_name": "临邑",
+        "city_id": "976",
+        "url": "https:\/\/m.anjuke.com\/lydz\/"
+    },
+    "鹿邑^^977^^luyixian^^luy": {
+        "city_name": "鹿邑",
+        "city_id": "977",
+        "url": "https:\/\/m.anjuke.com\/luy\/"
+    },
+    "绵阳^^61^^mianyang^^my": {
+        "city_name": "绵阳",
+        "city_id": "61",
+        "url": "https:\/\/m.anjuke.com\/my\/"
+    },
+    "茂名^^129^^maoming^^mm": {
+        "city_name": "茂名",
+        "city_id": "129",
+        "url": "https:\/\/m.anjuke.com\/mm\/"
+    },
+    "马鞍山^^173^^maanshan^^mas": {
+        "city_name": "马鞍山",
+        "city_id": "173",
+        "url": "https:\/\/m.anjuke.com\/mas\/"
+    },
+    "牡丹江^^182^^mudanjiang^^mdj": {
+        "city_name": "牡丹江",
+        "city_id": "182",
+        "url": "https:\/\/m.anjuke.com\/mdj\/"
+    },
+    "眉山^^238^^meishan^^ms": {
+        "city_name": "眉山",
+        "city_id": "238",
+        "url": "https:\/\/m.anjuke.com\/ms\/"
+    },
+    "梅州^^257^^meizhou^^mz": {
+        "city_name": "梅州",
+        "city_id": "257",
+        "url": "https:\/\/m.anjuke.com\/mz\/"
+    },
+    "明港^^344^^minggang^^mg": {
+        "city_name": "明港",
+        "city_id": "344",
+        "url": "https:\/\/m.anjuke.com\/mg\/"
+    },
+    "梅河口^^815^^meihekou^^mhk": {
+        "city_name": "梅河口",
+        "city_id": "815",
+        "url": "https:\/\/m.anjuke.com\/mhk\/"
+    },
+    "弥勒^^1026^^mileshi^^ml": {
+        "city_name": "弥勒",
+        "city_id": "1026",
+        "url": "https:\/\/m.anjuke.com\/ml\/"
+    },
+    "渑池^^1027^^mianchixian^^mc": {
+        "city_name": "渑池",
+        "city_id": "1027",
+        "url": "https:\/\/m.anjuke.com\/mc\/"
+    },
+    "孟津^^711^^mengjin^^mj": {
+        "city_name": "孟津",
+        "city_id": "711",
+        "url": "https:\/\/m.anjuke.com\/mj\/"
+    },
+    "南京^^16^^nanjing^^nj": {
+        "city_name": "南京",
+        "city_id": "16",
+        "url": "https:\/\/m.anjuke.com\/nj\/"
+    },
+    "宁波^^32^^nb^^nb": {
+        "city_name": "宁波",
+        "city_id": "32",
+        "url": "https:\/\/m.anjuke.com\/nb\/"
+    },
+    "南昌^^41^^nc^^nc": {
+        "city_name": "南昌",
+        "city_id": "41",
+        "url": "https:\/\/m.anjuke.com\/nc\/"
+    },
+    "南宁^^62^^nanning^^nn": {
+        "city_name": "南宁",
+        "city_id": "62",
+        "url": "https:\/\/m.anjuke.com\/nn\/"
+    },
+    "南通^^63^^nantong^^nt": {
+        "city_name": "南通",
+        "city_id": "63",
+        "url": "https:\/\/m.anjuke.com\/nt\/"
+    },
+    "南充^^98^^nanchong^^nan": {
+        "city_name": "南充",
+        "city_id": "98",
+        "url": "https:\/\/m.anjuke.com\/nan\/"
+    },
+    "南阳^^115^^nanyang^^ny": {
+        "city_name": "南阳",
+        "city_id": "115",
+        "url": "https:\/\/m.anjuke.com\/ny\/"
+    },
+    "宁德^^143^^ningde^^nd": {
+        "city_name": "宁德",
+        "city_id": "143",
+        "url": "https:\/\/m.anjuke.com\/nd\/"
+    },
+    "内江^^193^^neijiang^^nei": {
+        "city_name": "内江",
+        "city_id": "193",
+        "url": "https:\/\/m.anjuke.com\/nei\/"
+    },
+    "南平^^225^^nanping^^np": {
+        "city_name": "南平",
+        "city_id": "225",
+        "url": "https:\/\/m.anjuke.com\/np\/"
+    },
+    "那曲^^345^^naqu^^nq": {
+        "city_name": "那曲",
+        "city_id": "345",
+        "url": "https:\/\/m.anjuke.com\/nq\/"
+    },
+    "怒江^^346^^nujiang^^nu": {
+        "city_name": "怒江",
+        "city_id": "346",
+        "url": "https:\/\/m.anjuke.com\/nu\/"
+    },
+    "南安^^395^^nananshi^^na": {
+        "city_name": "南安",
+        "city_id": "395",
+        "url": "https:\/\/m.anjuke.com\/na\/"
+    },
+    "宁国^^427^^ningguo^^ningg": {
+        "city_name": "宁国",
+        "city_id": "427",
+        "url": "https:\/\/m.anjuke.com\/ningg\/"
+    },
+    "南城^^1008^^nanchengxian^^nanc": {
+        "city_name": "南城",
+        "city_id": "1008",
+        "url": "https:\/\/m.anjuke.com\/nanc\/"
+    },
+    "南县^^1028^^nanxian^^nx": {
+        "city_name": "南县",
+        "city_id": "1028",
+        "url": "https:\/\/m.anjuke.com\/nx\/"
+    },
+    "南漳^^978^^nanzhangxian^^nz": {
+        "city_name": "南漳",
+        "city_id": "978",
+        "url": "https:\/\/m.anjuke.com\/nz\/"
+    },
+    "宁津^^979^^ningjinxian^^ningj": {
+        "city_name": "宁津",
+        "city_id": "979",
+        "url": "https:\/\/m.anjuke.com\/ningj\/"
+    },
+    "宁阳^^980^^ningyangxian^^ningy": {
+        "city_name": "宁阳",
+        "city_id": "980",
+        "url": "https:\/\/m.anjuke.com\/ningy\/"
+    },
+    "攀枝花^^95^^panzhihua^^pzh": {
+        "city_name": "攀枝花",
+        "city_id": "95",
+        "url": "https:\/\/m.anjuke.com\/pzh\/"
+    },
+    "平顶山^^126^^pingdingsha^^pds": {
+        "city_name": "平顶山",
+        "city_id": "126",
+        "url": "https:\/\/m.anjuke.com\/pds\/"
+    },
+    "盘锦^^175^^panjin^^pj": {
+        "city_name": "盘锦",
+        "city_id": "175",
+        "url": "https:\/\/m.anjuke.com\/pj\/"
+    },
+    "萍乡^^176^^pingxiang^^px": {
+        "city_name": "萍乡",
+        "city_id": "176",
+        "url": "https:\/\/m.anjuke.com\/px\/"
+    },
+    "濮阳^^209^^puyang^^py": {
+        "city_name": "濮阳",
+        "city_id": "209",
+        "url": "https:\/\/m.anjuke.com\/py\/"
+    },
+    "莆田^^211^^putian^^pt": {
+        "city_name": "莆田",
+        "city_id": "211",
+        "url": "https:\/\/m.anjuke.com\/pt\/"
+    },
+    "普洱^^290^^puer^^pe": {
+        "city_name": "普洱",
+        "city_id": "290",
+        "url": "https:\/\/m.anjuke.com\/pe\/"
+    },
+    "平凉^^347^^pingliang^^pl": {
+        "city_name": "平凉",
+        "city_id": "347",
+        "url": "https:\/\/m.anjuke.com\/pl\/"
+    },
+    "普宁^^716^^puning^^pn": {
+        "city_name": "普宁",
+        "city_id": "716",
+        "url": "https:\/\/m.anjuke.com\/pn\/"
+    },
+    "邳州^^406^^pizhou^^piz": {
+        "city_name": "邳州",
+        "city_id": "406",
+        "url": "https:\/\/m.anjuke.com\/piz\/"
+    },
+    "蓬莱市^^601^^penglaishi^^pls": {
+        "city_name": "蓬莱市",
+        "city_id": "601",
+        "url": "https:\/\/m.anjuke.com\/pls\/"
+    },
+    "平湖^^721^^pinghu^^ph": {
+        "city_name": "平湖",
+        "city_id": "721",
+        "url": "https:\/\/m.anjuke.com\/ph\/"
+    },
+    "舞钢^^745^^pdswugang^^pdswg": {
+        "city_name": "舞钢",
+        "city_id": "745",
+        "url": "https:\/\/m.anjuke.com\/pdswg\/"
+    },
+    "平阳^^947^^pingyang^^pingyangxian": {
+        "city_name": "平阳",
+        "city_id": "947",
+        "url": "https:\/\/m.anjuke.com\/pingyangxian\/"
+    },
+    "平邑^^955^^pingyi^^pingy": {
+        "city_name": "平邑",
+        "city_id": "955",
+        "url": "https:\/\/m.anjuke.com\/pingy\/"
+    },
+    "磐石^^981^^panshishi^^ps": {
+        "city_name": "磐石",
+        "city_id": "981",
+        "url": "https:\/\/m.anjuke.com\/ps\/"
+    },
+    "青岛^^30^^qd^^qd": {
+        "city_name": "青岛",
+        "city_id": "30",
+        "url": "https:\/\/m.anjuke.com\/qd\/"
+    },
+    "秦皇岛^^64^^qinhuangdao^^qhd": {
+        "city_name": "秦皇岛",
+        "city_id": "64",
+        "url": "https:\/\/m.anjuke.com\/qhd\/"
+    },
+    "泉州^^65^^quanzhou^^qz": {
+        "city_name": "泉州",
+        "city_id": "65",
+        "url": "https:\/\/m.anjuke.com\/qz\/"
+    },
+    "曲靖^^100^^qujing^^qj": {
+        "city_name": "曲靖",
+        "city_id": "100",
+        "url": "https:\/\/m.anjuke.com\/qj\/"
+    },
+    "齐齐哈尔^^191^^qiqihaer^^qqhe": {
+        "city_name": "齐齐哈尔",
+        "city_id": "191",
+        "url": "https:\/\/m.anjuke.com\/qqhe\/"
+    },
+    "衢州^^203^^quzhou^^qu": {
+        "city_name": "衢州",
+        "city_id": "203",
+        "url": "https:\/\/m.anjuke.com\/qu\/"
+    },
+    "清远^^210^^qingyuan^^qy": {
+        "city_name": "清远",
+        "city_id": "210",
+        "url": "https:\/\/m.anjuke.com\/qy\/"
+    },
+    "钦州^^232^^qinzhou^^qin": {
+        "city_name": "钦州",
+        "city_id": "232",
+        "url": "https:\/\/m.anjuke.com\/qin\/"
+    },
+    "庆阳^^239^^qingyang^^qing": {
+        "city_name": "庆阳",
+        "city_id": "239",
+        "url": "https:\/\/m.anjuke.com\/qing\/"
+    },
+    "黔东南^^349^^qiandongnan^^qdn": {
+        "city_name": "黔东南",
+        "city_id": "349",
+        "url": "https:\/\/m.anjuke.com\/qdn\/"
+    },
+    "潜江^^350^^qianjiang^^qian": {
+        "city_name": "潜江",
+        "city_id": "350",
+        "url": "https:\/\/m.anjuke.com\/qian\/"
+    },
+    "清徐^^351^^qingxu^^qx": {
+        "city_name": "清徐",
+        "city_id": "351",
+        "url": "https:\/\/m.anjuke.com\/qx\/"
+    },
+    "黔南^^352^^qiannan^^qn": {
+        "city_name": "黔南",
+        "city_id": "352",
+        "url": "https:\/\/m.anjuke.com\/qn\/"
+    },
+    "七台河^^353^^qitaihe^^qth": {
+        "city_name": "七台河",
+        "city_id": "353",
+        "url": "https:\/\/m.anjuke.com\/qth\/"
+    },
+    "黔西南^^354^^qianxinan^^qxn": {
+        "city_name": "黔西南",
+        "city_id": "354",
+        "url": "https:\/\/m.anjuke.com\/qxn\/"
+    },
+    "迁安市^^551^^qiananshi^^qns": {
+        "city_name": "迁安市",
+        "city_id": "551",
+        "url": "https:\/\/m.anjuke.com\/qns\/"
+    },
+    "青州市^^559^^qingzhoushi^^qzs": {
+        "city_name": "青州市",
+        "city_id": "559",
+        "url": "https:\/\/m.anjuke.com\/qzs\/"
+    },
+    "清镇^^727^^qingzhen^^qzh": {
+        "city_name": "清镇",
+        "city_id": "727",
+        "url": "https:\/\/m.anjuke.com\/qzh\/"
+    },
+    "琼海^^437^^qionghai^^qh": {
+        "city_name": "琼海",
+        "city_id": "437",
+        "url": "https:\/\/m.anjuke.com\/qh\/"
+    },
+    "沁阳^^842^^qinyangshi^^qinyangshi": {
+        "city_name": "沁阳",
+        "city_id": "842",
+        "url": "https:\/\/m.anjuke.com\/qinyangshi\/"
+    },
+    "启东^^393^^qidong^^qid": {
+        "city_name": "启东",
+        "city_id": "393",
+        "url": "https:\/\/m.anjuke.com\/qid\/"
+    },
+    "淇县^^1009^^qixian^^qxhb": {
+        "city_name": "淇县",
+        "city_id": "1009",
+        "url": "https:\/\/m.anjuke.com\/qxhb\/"
+    },
+    "祁阳^^1029^^qiyangxian^^qiy": {
+        "city_name": "祁阳",
+        "city_id": "1029",
+        "url": "https:\/\/m.anjuke.com\/qiy\/"
+    },
+    "渠县^^1030^^quxian^^qux": {
+        "city_name": "渠县",
+        "city_id": "1030",
+        "url": "https:\/\/m.anjuke.com\/qux\/"
+    },
+    "杞县^^584^^qixianqu^^qixianqu": {
+        "city_name": "杞县",
+        "city_id": "584",
+        "url": "https:\/\/m.anjuke.com\/qixianqu\/"
+    },
+    "迁西^^730^^qianxi^^qianx": {
+        "city_name": "迁西",
+        "city_id": "730",
+        "url": "https:\/\/m.anjuke.com\/qianx\/"
+    },
+    "栖霞^^732^^qixia^^qix": {
+        "city_name": "栖霞",
+        "city_id": "732",
+        "url": "https:\/\/m.anjuke.com\/qix\/"
+    },
+    "江山^^916^^qzjiangshan^^qzjs": {
+        "city_name": "江山",
+        "city_id": "916",
+        "url": "https:\/\/m.anjuke.com\/qzjs\/"
+    },
+    "齐河^^982^^qihexian^^qih": {
+        "city_name": "齐河",
+        "city_id": "982",
+        "url": "https:\/\/m.anjuke.com\/qih\/"
+    },
+    "祁东^^983^^qidongxian^^qidongxian": {
+        "city_name": "祁东",
+        "city_id": "983",
+        "url": "https:\/\/m.anjuke.com\/qidongxian\/"
+    },
+    "日照^^117^^rizhao^^rz": {
+        "city_name": "日照",
+        "city_id": "117",
+        "url": "https:\/\/m.anjuke.com\/rz\/"
+    },
+    "日喀则^^355^^rikeze^^rkz": {
+        "city_name": "日喀则",
+        "city_id": "355",
+        "url": "https:\/\/m.anjuke.com\/rkz\/"
+    },
+    "瑞安^^356^^ruian^^ra": {
+        "city_name": "瑞安",
+        "city_id": "356",
+        "url": "https:\/\/m.anjuke.com\/ra\/"
+    },
+    "汝州市^^572^^ruzhoushi^^rzs": {
+        "city_name": "汝州市",
+        "city_id": "572",
+        "url": "https:\/\/m.anjuke.com\/rzs\/"
+    },
+    "任丘市^^595^^renqiushi^^rqs": {
+        "city_name": "任丘市",
+        "city_id": "595",
+        "url": "https:\/\/m.anjuke.com\/rqs\/"
+    },
+    "乳山市^^598^^rushanshi^^rsh": {
+        "city_name": "乳山市",
+        "city_id": "598",
+        "url": "https:\/\/m.anjuke.com\/rsh\/"
+    },
+    "仁怀^^600^^renhuai^^rh": {
+        "city_name": "仁怀",
+        "city_id": "600",
+        "url": "https:\/\/m.anjuke.com\/rh\/"
+    },
+    "如皋^^400^^rugao^^rg": {
+        "city_name": "如皋",
+        "city_id": "400",
+        "url": "https:\/\/m.anjuke.com\/rg\/"
+    },
+    "荣成市^^549^^rongchengshi^^rcheng": {
+        "city_name": "荣成市",
+        "city_id": "549",
+        "url": "https:\/\/m.anjuke.com\/rcheng\/"
+    },
+    "如东^^403^^rudongxian^^rudong": {
+        "city_name": "如东",
+        "city_id": "403",
+        "url": "https:\/\/m.anjuke.com\/rudong\/"
+    },
+    "仁寿^^577^^renshouxian^^renshouxian": {
+        "city_name": "仁寿",
+        "city_id": "577",
+        "url": "https:\/\/m.anjuke.com\/renshouxian\/"
+    },
+    "日土^^431^^rituxian^^rituxian": {
+        "city_name": "日土",
+        "city_id": "431",
+        "url": "https:\/\/m.anjuke.com\/rituxian\/"
+    },
+    "上海^^11^^shanghai^^sh": {
+        "city_name": "上海",
+        "city_id": "11",
+        "url": "https:\/\/m.anjuke.com\/sh\/"
+    },
+    "深圳^^13^^shenzhen^^sz": {
+        "city_name": "深圳",
+        "city_id": "13",
+        "url": "https:\/\/m.anjuke.com\/sz\/"
+    },
+    "苏州^^19^^suzhou^^su": {
+        "city_name": "苏州",
+        "city_id": "19",
+        "url": "https:\/\/m.anjuke.com\/su\/"
+    },
+    "石家庄^^28^^sjz^^sjz": {
+        "city_name": "石家庄",
+        "city_id": "28",
+        "url": "https:\/\/m.anjuke.com\/sjz\/"
+    },
+    "沈阳^^39^^sy^^shen": {
+        "city_name": "沈阳",
+        "city_id": "39",
+        "url": "https:\/\/m.anjuke.com\/shen\/"
+    },
+    "三亚^^51^^sanya^^sy": {
+        "city_name": "三亚",
+        "city_id": "51",
+        "url": "https:\/\/m.anjuke.com\/sy\/"
+    },
+    "绍兴^^66^^shaoxing^^sx": {
+        "city_name": "绍兴",
+        "city_id": "66",
+        "url": "https:\/\/m.anjuke.com\/sx\/"
+    },
+    "汕头^^105^^shantou^^st": {
+        "city_name": "汕头",
+        "city_id": "105",
+        "url": "https:\/\/m.anjuke.com\/st\/"
+    },
+    "十堰^^138^^shiyan^^shi": {
+        "city_name": "十堰",
+        "city_id": "138",
+        "url": "https:\/\/m.anjuke.com\/shi\/"
+    },
+    "三门峡^^148^^sanmenxia^^smx": {
+        "city_name": "三门峡",
+        "city_id": "148",
+        "url": "https:\/\/m.anjuke.com\/smx\/"
+    },
+    "三明^^157^^sanming^^sm": {
+        "city_name": "三明",
+        "city_id": "157",
+        "url": "https:\/\/m.anjuke.com\/sm\/"
+    },
+    "韶关^^158^^shaoguan^^sg": {
+        "city_name": "韶关",
+        "city_id": "158",
+        "url": "https:\/\/m.anjuke.com\/sg\/"
+    },
+    "商丘^^166^^shangqiu^^sq": {
+        "city_name": "商丘",
+        "city_id": "166",
+        "url": "https:\/\/m.anjuke.com\/sq\/"
+    },
+    "宿迁^^195^^suqian^^suq": {
+        "city_name": "宿迁",
+        "city_id": "195",
+        "url": "https:\/\/m.anjuke.com\/suq\/"
+    },
+    "绥化^^196^^suihua^^sui": {
+        "city_name": "绥化",
+        "city_id": "196",
+        "url": "https:\/\/m.anjuke.com\/sui\/"
+    },
+    "邵阳^^206^^shaoyang^^shao": {
+        "city_name": "邵阳",
+        "city_id": "206",
+        "url": "https:\/\/m.anjuke.com\/shao\/"
+    },
+    "遂宁^^215^^suining^^sn": {
+        "city_name": "遂宁",
+        "city_id": "215",
+        "url": "https:\/\/m.anjuke.com\/sn\/"
+    },
+    "上饶^^218^^shangrao^^sr": {
+        "city_name": "上饶",
+        "city_id": "218",
+        "url": "https:\/\/m.anjuke.com\/sr\/"
+    },
+    "四平^^220^^siping^^sip": {
+        "city_name": "四平",
+        "city_id": "220",
+        "url": "https:\/\/m.anjuke.com\/sip\/"
+    },
+    "石河子^^233^^shihezi^^shz": {
+        "city_name": "石河子",
+        "city_id": "233",
+        "url": "https:\/\/m.anjuke.com\/shz\/"
+    },
+    "顺德^^244^^shunde^^sd": {
+        "city_name": "顺德",
+        "city_id": "244",
+        "url": "https:\/\/m.anjuke.com\/sd\/"
+    },
+    "宿州^^246^^suzhoushi^^suz": {
+        "city_name": "宿州",
+        "city_id": "246",
+        "url": "https:\/\/m.anjuke.com\/suz\/"
+    },
+    "松原^^248^^songyuan^^song": {
+        "city_name": "松原",
+        "city_id": "248",
+        "url": "https:\/\/m.anjuke.com\/song\/"
+    },
+    "沭阳^^253^^shuyang^^shuy": {
+        "city_name": "沭阳",
+        "city_id": "253",
+        "url": "https:\/\/m.anjuke.com\/shuy\/"
+    },
+    "石嘴山^^262^^shizuishan^^szs": {
+        "city_name": "石嘴山",
+        "city_id": "262",
+        "url": "https:\/\/m.anjuke.com\/szs\/"
+    },
+    "随州^^264^^suizhou^^suiz": {
+        "city_name": "随州",
+        "city_id": "264",
+        "url": "https:\/\/m.anjuke.com\/suiz\/"
+    },
+    "朔州^^282^^shuozhou^^shuo": {
+        "city_name": "朔州",
+        "city_id": "282",
+        "url": "https:\/\/m.anjuke.com\/shuo\/"
+    },
+    "汕尾^^285^^shanwei^^sw": {
+        "city_name": "汕尾",
+        "city_id": "285",
+        "url": "https:\/\/m.anjuke.com\/sw\/"
+    },
+    "三沙^^357^^sansha^^sansh": {
+        "city_name": "三沙",
+        "city_id": "357",
+        "url": "https:\/\/m.anjuke.com\/sansh\/"
+    },
+    "商洛^^358^^shangluo^^sl": {
+        "city_name": "商洛",
+        "city_id": "358",
+        "url": "https:\/\/m.anjuke.com\/sl\/"
+    },
+    "山南^^359^^shannan^^shn": {
+        "city_name": "山南",
+        "city_id": "359",
+        "url": "https:\/\/m.anjuke.com\/shn\/"
+    },
+    "神农架^^360^^shennongjia^^snj": {
+        "city_name": "神农架",
+        "city_id": "360",
+        "url": "https:\/\/m.anjuke.com\/snj\/"
+    },
+    "双鸭山^^361^^shuangyashan^^sys": {
+        "city_name": "双鸭山",
+        "city_id": "361",
+        "url": "https:\/\/m.anjuke.com\/sys\/"
+    },
+    "石狮^^396^^shishi^^shis": {
+        "city_name": "石狮",
+        "city_id": "396",
+        "url": "https:\/\/m.anjuke.com\/shis\/"
+    },
+    "三河市^^599^^sanheshi^^shs": {
+        "city_name": "三河市",
+        "city_id": "599",
+        "url": "https:\/\/m.anjuke.com\/shs\/"
+    },
+    "寿光^^399^^shouguang^^shg": {
+        "city_name": "寿光",
+        "city_id": "399",
+        "url": "https:\/\/m.anjuke.com\/shg\/"
+    },
+    "嵊州^^809^^shengzhou^^shzhou": {
+        "city_name": "嵊州",
+        "city_id": "809",
+        "url": "https:\/\/m.anjuke.com\/shzhou\/"
+    },
+    "松滋^^921^^songzi^^songz": {
+        "city_name": "松滋",
+        "city_id": "921",
+        "url": "https:\/\/m.anjuke.com\/songz\/"
+    },
+    "上杭^^1010^^shagnhangxian^^shly": {
+        "city_name": "上杭",
+        "city_id": "1010",
+        "url": "https:\/\/m.anjuke.com\/shly\/"
+    },
+    "睢县^^1011^^suixian^^sxsq": {
+        "city_name": "睢县",
+        "city_id": "1011",
+        "url": "https:\/\/m.anjuke.com\/sxsq\/"
+    },
+    "沙洋^^1031^^shayangxian^^shay": {
+        "city_name": "沙洋",
+        "city_id": "1031",
+        "url": "https:\/\/m.anjuke.com\/shay\/"
+    },
+    "邵东^^1032^^shaodongxian^^shaod": {
+        "city_name": "邵东",
+        "city_id": "1032",
+        "url": "https:\/\/m.anjuke.com\/shaod\/"
+    },
+    "射洪^^1033^^shehongxian^^sheh": {
+        "city_name": "射洪",
+        "city_id": "1033",
+        "url": "https:\/\/m.anjuke.com\/sheh\/"
+    },
+    "双峰^^1034^^shuangfengxian^^sf": {
+        "city_name": "双峰",
+        "city_id": "1034",
+        "url": "https:\/\/m.anjuke.com\/sf\/"
+    },
+    "随县^^1035^^suixia^^szsx": {
+        "city_name": "随县",
+        "city_id": "1035",
+        "url": "https:\/\/m.anjuke.com\/szsx\/"
+    },
+    "邵阳县^^1040^^shaoyangxian^^syx": {
+        "city_name": "邵阳县",
+        "city_id": "1040",
+        "url": "https:\/\/m.anjuke.com\/syx\/"
+    },
+    "泗阳县^^573^^siyangxian^^siyang": {
+        "city_name": "泗阳县",
+        "city_id": "573",
+        "url": "https:\/\/m.anjuke.com\/siyang\/"
+    },
+    "泗洪县^^574^^sihongxian^^sihong": {
+        "city_name": "泗洪县",
+        "city_id": "574",
+        "url": "https:\/\/m.anjuke.com\/sihong\/"
+    },
+    "安达^^607^^shanda^^shad": {
+        "city_name": "安达",
+        "city_id": "607",
+        "url": "https:\/\/m.anjuke.com\/shad\/"
+    },
+    "永安^^778^^smyongan^^smya": {
+        "city_name": "永安",
+        "city_id": "778",
+        "url": "https:\/\/m.anjuke.com\/smya\/"
+    },
+    "肇东^^797^^shzhaodong^^shzd": {
+        "city_name": "肇东",
+        "city_id": "797",
+        "url": "https:\/\/m.anjuke.com\/shzd\/"
+    },
+    "广水^^807^^szguangshui^^szgs": {
+        "city_name": "广水",
+        "city_id": "807",
+        "url": "https:\/\/m.anjuke.com\/szgs\/"
+    },
+    "孝义^^914^^sxxiaoyi^^sxxy": {
+        "city_name": "孝义",
+        "city_id": "914",
+        "url": "https:\/\/m.anjuke.com\/sxxy\/"
+    },
+    "商水^^952^^shangshui^^ss": {
+        "city_name": "商水",
+        "city_id": "952",
+        "url": "https:\/\/m.anjuke.com\/ss\/"
+    },
+    "射阳^^984^^sheyangxian^^syyc": {
+        "city_name": "射阳",
+        "city_id": "984",
+        "url": "https:\/\/m.anjuke.com\/syyc\/"
+    },
+    "涉县^^985^^shexian^^sxhd": {
+        "city_name": "涉县",
+        "city_id": "985",
+        "url": "https:\/\/m.anjuke.com\/sxhd\/"
+    },
+    "沈丘^^987^^shenqiuxian^^shenq": {
+        "city_name": "沈丘",
+        "city_id": "987",
+        "url": "https:\/\/m.anjuke.com\/shenq\/"
+    },
+    "神木^^554^^shenmuxian^^shenmu": {
+        "city_name": "神木",
+        "city_id": "554",
+        "url": "https:\/\/m.anjuke.com\/shenmu\/"
+    },
+    "天津^^17^^tianjin^^tj": {
+        "city_name": "天津",
+        "city_id": "17",
+        "url": "https:\/\/m.anjuke.com\/tj\/"
+    },
+    "太原^^38^^ty^^ty": {
+        "city_name": "太原",
+        "city_id": "38",
+        "url": "https:\/\/m.anjuke.com\/ty\/"
+    },
+    "泰州^^67^^taizhou^^tz": {
+        "city_name": "泰州",
+        "city_id": "67",
+        "url": "https:\/\/m.anjuke.com\/tz\/"
+    },
+    "唐山^^68^^tangshan^^ts": {
+        "city_name": "唐山",
+        "city_id": "68",
+        "url": "https:\/\/m.anjuke.com\/ts\/"
+    },
+    "泰安^^119^^taian^^ta": {
+        "city_name": "泰安",
+        "city_id": "119",
+        "url": "https:\/\/m.anjuke.com\/ta\/"
+    },
+    "台州^^122^^taiz^^tai": {
+        "city_name": "台州",
+        "city_id": "122",
+        "url": "https:\/\/m.anjuke.com\/tai\/"
+    },
+    "铁岭^^197^^tieling^^tl": {
+        "city_name": "铁岭",
+        "city_id": "197",
+        "url": "https:\/\/m.anjuke.com\/tl\/"
+    },
+    "通辽^^214^^tongliao^^tongl": {
+        "city_name": "通辽",
+        "city_id": "214",
+        "url": "https:\/\/m.anjuke.com\/tongl\/"
+    },
+    "铜陵^^224^^tongling^^tong": {
+        "city_name": "铜陵",
+        "city_id": "224",
+        "url": "https:\/\/m.anjuke.com\/tong\/"
+    },
+    "天水^^251^^tianshui^^tian": {
+        "city_name": "天水",
+        "city_id": "251",
+        "url": "https:\/\/m.anjuke.com\/tian\/"
+    },
+    "通化^^280^^tonghua^^th": {
+        "city_name": "通化",
+        "city_id": "280",
+        "url": "https:\/\/m.anjuke.com\/th\/"
+    },
+    "台山^^362^^taishan^^taish": {
+        "city_name": "台山",
+        "city_id": "362",
+        "url": "https:\/\/m.anjuke.com\/taish\/"
+    },
+    "铜川^^363^^tongchuan^^tc": {
+        "city_name": "铜川",
+        "city_id": "363",
+        "url": "https:\/\/m.anjuke.com\/tc\/"
+    },
+    "吐鲁番^^364^^tulufan^^tlf": {
+        "city_name": "吐鲁番",
+        "city_id": "364",
+        "url": "https:\/\/m.anjuke.com\/tlf\/"
+    },
+    "天门^^365^^tianmen^^tm": {
+        "city_name": "天门",
+        "city_id": "365",
+        "url": "https:\/\/m.anjuke.com\/tm\/"
+    },
+    "图木舒克^^366^^tumushuke^^tmsk": {
+        "city_name": "图木舒克",
+        "city_id": "366",
+        "url": "https:\/\/m.anjuke.com\/tmsk\/"
+    },
+    "桐城^^367^^tongcheng^^tongc": {
+        "city_name": "桐城",
+        "city_id": "367",
+        "url": "https:\/\/m.anjuke.com\/tongc\/"
+    },
+    "铜仁^^368^^tongren^^tr": {
+        "city_name": "铜仁",
+        "city_id": "368",
+        "url": "https:\/\/m.anjuke.com\/tr\/"
+    },
+    "太仓^^392^^taicang^^taic": {
+        "city_name": "太仓",
+        "city_id": "392",
+        "url": "https:\/\/m.anjuke.com\/taic\/"
+    },
+    "泰兴^^415^^taixing^^taix": {
+        "city_name": "泰兴",
+        "city_id": "415",
+        "url": "https:\/\/m.anjuke.com\/taix\/"
+    },
+    "滕州市^^550^^tengzhoushi^^tzs": {
+        "city_name": "滕州市",
+        "city_id": "550",
+        "url": "https:\/\/m.anjuke.com\/tzs\/"
+    },
+    "桐乡^^409^^tongxiang^^tx": {
+        "city_name": "桐乡",
+        "city_id": "409",
+        "url": "https:\/\/m.anjuke.com\/tx\/"
+    },
+    "天长^^442^^tianchang^^tch": {
+        "city_name": "天长",
+        "city_id": "442",
+        "url": "https:\/\/m.anjuke.com\/tch\/"
+    },
+    "通许^^1012^^tongxuxian^^tongxu": {
+        "city_name": "通许",
+        "city_id": "1012",
+        "url": "https:\/\/m.anjuke.com\/tongxu\/"
+    },
+    "开原^^910^^tlkaiyuan^^tlky": {
+        "city_name": "开原",
+        "city_id": "910",
+        "url": "https:\/\/m.anjuke.com\/tlky\/"
+    },
+    "太康^^988^^taikangxian^^tk": {
+        "city_name": "太康",
+        "city_id": "988",
+        "url": "https:\/\/m.anjuke.com\/tk\/"
+    },
+    "郯城^^989^^tanchengxian^^tancheng": {
+        "city_name": "郯城",
+        "city_id": "989",
+        "url": "https:\/\/m.anjuke.com\/tancheng\/"
+    },
+    "塔城^^479^^tuscaloosa^^tac": {
+        "city_name": "塔城",
+        "city_id": "479",
+        "url": "https:\/\/m.anjuke.com\/tac\/"
+    },
+    "武汉^^22^^wuhan^^wh": {
+        "city_name": "武汉",
+        "city_id": "22",
+        "url": "https:\/\/m.anjuke.com\/wh\/"
+    },
+    "无锡^^25^^wuxi^^wx": {
+        "city_name": "无锡",
+        "city_id": "25",
+        "url": "https:\/\/m.anjuke.com\/wx\/"
+    },
+    "威海^^69^^weihai^^wei": {
+        "city_name": "威海",
+        "city_id": "69",
+        "url": "https:\/\/m.anjuke.com\/wei\/"
+    },
+    "潍坊^^70^^weifang^^wf": {
+        "city_name": "潍坊",
+        "city_id": "70",
+        "url": "https:\/\/m.anjuke.com\/wf\/"
+    },
+    "乌鲁木齐^^103^^wulumuqi^^wlmq": {
+        "city_name": "乌鲁木齐",
+        "city_id": "103",
+        "url": "https:\/\/m.anjuke.com\/wlmq\/"
+    },
+    "温州^^106^^wenzhou^^wz": {
+        "city_name": "温州",
+        "city_id": "106",
+        "url": "https:\/\/m.anjuke.com\/wz\/"
+    },
+    "芜湖^^152^^wuhu^^wuh": {
+        "city_name": "芜湖",
+        "city_id": "152",
+        "url": "https:\/\/m.anjuke.com\/wuh\/"
+    },
+    "梧州^^171^^wuzhou^^wu": {
+        "city_name": "梧州",
+        "city_id": "171",
+        "url": "https:\/\/m.anjuke.com\/wu\/"
+    },
+    "渭南^^261^^weinan^^wn": {
+        "city_name": "渭南",
+        "city_id": "261",
+        "url": "https:\/\/m.anjuke.com\/wn\/"
+    },
+    "乌海^^269^^wuhai^^wuhai": {
+        "city_name": "乌海",
+        "city_id": "269",
+        "url": "https:\/\/m.anjuke.com\/wuhai\/"
+    },
+    "文山^^271^^wenshan^^ws": {
+        "city_name": "文山",
+        "city_id": "271",
+        "url": "https:\/\/m.anjuke.com\/ws\/"
+    },
+    "武威^^276^^wuwei^^wuwei": {
+        "city_name": "武威",
+        "city_id": "276",
+        "url": "https:\/\/m.anjuke.com\/wuwei\/"
+    },
+    "乌兰察布^^283^^wulanchabu^^wlcb": {
+        "city_name": "乌兰察布",
+        "city_id": "283",
+        "url": "https:\/\/m.anjuke.com\/wlcb\/"
+    },
+    "瓦房店^^370^^wafangdian^^wfd": {
+        "city_name": "瓦房店",
+        "city_id": "370",
+        "url": "https:\/\/m.anjuke.com\/wfd\/"
+    },
+    "五家渠^^371^^wujiaqu^^wjq": {
+        "city_name": "五家渠",
+        "city_id": "371",
+        "url": "https:\/\/m.anjuke.com\/wjq\/"
+    },
+    "武夷山^^372^^wuyishan^^wys": {
+        "city_name": "武夷山",
+        "city_id": "372",
+        "url": "https:\/\/m.anjuke.com\/wys\/"
+    },
+    "吴忠^^373^^wuzhong^^wuz": {
+        "city_name": "吴忠",
+        "city_id": "373",
+        "url": "https:\/\/m.anjuke.com\/wuz\/"
+    },
+    "五指山^^374^^wuzhishan^^wzs": {
+        "city_name": "五指山",
+        "city_id": "374",
+        "url": "https:\/\/m.anjuke.com\/wzs\/"
+    },
+    "中卫^^390^^weizhong^^zw": {
+        "city_name": "中卫",
+        "city_id": "390",
+        "url": "https:\/\/m.anjuke.com\/zw\/"
+    },
+    "温岭^^404^^wnelingshi^^wls": {
+        "city_name": "温岭",
+        "city_id": "404",
+        "url": "https:\/\/m.anjuke.com\/wls\/"
+    },
+    "武安市^^594^^wuanshi^^was": {
+        "city_name": "武安市",
+        "city_id": "594",
+        "url": "https:\/\/m.anjuke.com\/was\/"
+    },
+    "文昌^^433^^wenchang^^wenchangshi": {
+        "city_name": "文昌",
+        "city_id": "433",
+        "url": "https:\/\/m.anjuke.com\/wenchangshi\/"
+    },
+    "武穴^^856^^wuxue^^wux": {
+        "city_name": "武穴",
+        "city_id": "856",
+        "url": "https:\/\/m.anjuke.com\/wux\/"
+    },
+    "万宁^^434^^wanning^^wann": {
+        "city_name": "万宁",
+        "city_id": "434",
+        "url": "https:\/\/m.anjuke.com\/wann\/"
+    },
+    "尉氏^^1013^^weishixian^^weishixian": {
+        "city_name": "尉氏",
+        "city_id": "1013",
+        "url": "https:\/\/m.anjuke.com\/weishixian\/"
+    },
+    "无为^^1014^^wuweixian^^ww": {
+        "city_name": "无为",
+        "city_id": "1014",
+        "url": "https:\/\/m.anjuke.com\/ww\/"
+    },
+    "温县^^1036^^wenxian^^wenxian": {
+        "city_name": "温县",
+        "city_id": "1036",
+        "url": "https:\/\/m.anjuke.com\/wenxian\/"
+    },
+    "无棣^^954^^wudi^^wd": {
+        "city_name": "无棣",
+        "city_id": "954",
+        "url": "https:\/\/m.anjuke.com\/wd\/"
+    },
+    "微山^^990^^weishanxian^^wsjn": {
+        "city_name": "微山",
+        "city_id": "990",
+        "url": "https:\/\/m.anjuke.com\/wsjn\/"
+    },
+    "汶上^^991^^wenshangxian^^wsj": {
+        "city_name": "汶上",
+        "city_id": "991",
+        "url": "https:\/\/m.anjuke.com\/wsj\/"
+    },
+    "武义^^992^^wuyi^^wy": {
+        "city_name": "武义",
+        "city_id": "992",
+        "url": "https:\/\/m.anjuke.com\/wy\/"
+    },
+    "西安^^31^^xa^^xa": {
+        "city_name": "西安",
+        "city_id": "31",
+        "url": "https:\/\/m.anjuke.com\/xa\/"
+    },
+    "厦门^^46^^xm^^xm": {
+        "city_name": "厦门",
+        "city_id": "46",
+        "url": "https:\/\/m.anjuke.com\/xm\/"
+    },
+    "徐州^^71^^xuzhou^^xz": {
+        "city_name": "徐州",
+        "city_id": "71",
+        "url": "https:\/\/m.anjuke.com\/xz\/"
+    },
+    "湘潭^^132^^xiangtan^^xiang": {
+        "city_name": "湘潭",
+        "city_id": "132",
+        "url": "https:\/\/m.anjuke.com\/xiang\/"
+    },
+    "襄阳^^135^^xiangyang^^xy": {
+        "city_name": "襄阳",
+        "city_id": "135",
+        "url": "https:\/\/m.anjuke.com\/xy\/"
+    },
+    "新乡^^141^^xinxiang^^xx": {
+        "city_name": "新乡",
+        "city_id": "141",
+        "url": "https:\/\/m.anjuke.com\/xx\/"
+    },
+    "信阳^^146^^xinyang^^xiny": {
+        "city_name": "信阳",
+        "city_id": "146",
+        "url": "https:\/\/m.anjuke.com\/xiny\/"
+    },
+    "咸阳^^150^^xianyang^^xiany": {
+        "city_name": "咸阳",
+        "city_id": "150",
+        "url": "https:\/\/m.anjuke.com\/xiany\/"
+    },
+    "邢台^^153^^xingtai^^xt": {
+        "city_name": "邢台",
+        "city_id": "153",
+        "url": "https:\/\/m.anjuke.com\/xt\/"
+    },
+    "孝感^^155^^xiaogan^^xg": {
+        "city_name": "孝感",
+        "city_id": "155",
+        "url": "https:\/\/m.anjuke.com\/xg\/"
+    },
+    "西宁^^156^^xining^^xn": {
+        "city_name": "西宁",
+        "city_id": "156",
+        "url": "https:\/\/m.anjuke.com\/xn\/"
+    },
+    "许昌^^165^^xuchang^^xc": {
+        "city_name": "许昌",
+        "city_id": "165",
+        "url": "https:\/\/m.anjuke.com\/xc\/"
+    },
+    "忻州^^179^^xinzhou^^xin": {
+        "city_name": "忻州",
+        "city_id": "179",
+        "url": "https:\/\/m.anjuke.com\/xin\/"
+    },
+    "宣城^^241^^xuancheng^^xuan": {
+        "city_name": "宣城",
+        "city_id": "241",
+        "url": "https:\/\/m.anjuke.com\/xuan\/"
+    },
+    "咸宁^^268^^xianning^^xiann": {
+        "city_name": "咸宁",
+        "city_id": "268",
+        "url": "https:\/\/m.anjuke.com\/xiann\/"
+    },
+    "兴安盟^^275^^xinganmeng^^xam": {
+        "city_name": "兴安盟",
+        "city_id": "275",
+        "url": "https:\/\/m.anjuke.com\/xam\/"
+    },
+    "新余^^281^^xinyu^^xinyu": {
+        "city_name": "新余",
+        "city_id": "281",
+        "url": "https:\/\/m.anjuke.com\/xinyu\/"
+    },
+    "湘西^^375^^xiangxi^^xiangx": {
+        "city_name": "湘西",
+        "city_id": "375",
+        "url": "https:\/\/m.anjuke.com\/xiangx\/"
+    },
+    "仙桃^^376^^xiantao^^xiant": {
+        "city_name": "仙桃",
+        "city_id": "376",
+        "url": "https:\/\/m.anjuke.com\/xiant\/"
+    },
+    "锡林郭勒盟^^377^^xilinguole^^xl": {
+        "city_name": "锡林郭勒盟",
+        "city_id": "377",
+        "url": "https:\/\/m.anjuke.com\/xl\/"
+    },
+    "新泰市^^555^^xintaishi^^xts": {
+        "city_name": "新泰市",
+        "city_id": "555",
+        "url": "https:\/\/m.anjuke.com\/xts\/"
+    },
+    "兴化^^417^^xinghuashi^^xh": {
+        "city_name": "兴化",
+        "city_id": "417",
+        "url": "https:\/\/m.anjuke.com\/xh\/"
+    },
+    "宣威^^874^^xuanwei^^xuanw": {
+        "city_name": "宣威",
+        "city_id": "874",
+        "url": "https:\/\/m.anjuke.com\/xuanw\/"
+    },
+    "项城市^^589^^xiangchengshi^^xiangch": {
+        "city_name": "项城市",
+        "city_id": "589",
+        "url": "https:\/\/m.anjuke.com\/xiangch\/"
+    },
+    "新沂^^407^^xinyishi^^xinyi": {
+        "city_name": "新沂",
+        "city_id": "407",
+        "url": "https:\/\/m.anjuke.com\/xinyi\/"
+    },
+    "浚县^^1004^^xunxian^^juanxian": {
+        "city_name": "浚县",
+        "city_id": "1004",
+        "url": "https:\/\/m.anjuke.com\/juanxian\/"
+    },
+    "襄垣^^1015^^xiangyuanxian^^xiangyuanxian": {
+        "city_name": "襄垣",
+        "city_id": "1015",
+        "url": "https:\/\/m.anjuke.com\/xiangyuanxian\/"
+    },
+    "孝昌^^1016^^xiaochangxian^^xiaochang": {
+        "city_name": "孝昌",
+        "city_id": "1016",
+        "url": "https:\/\/m.anjuke.com\/xiaochang\/"
+    },
+    "宣汉^^1037^^xuanhanxian^^xuanhan": {
+        "city_name": "宣汉",
+        "city_id": "1037",
+        "url": "https:\/\/m.anjuke.com\/xuanhan\/"
+    },
+    "象山^^428^^xiangshanxian^^xiangshanxian": {
+        "city_name": "象山",
+        "city_id": "428",
+        "url": "https:\/\/m.anjuke.com\/xiangshanxian\/"
+    },
+    "沛县^^449^^xzpeixian^^xzpeixian": {
+        "city_name": "沛县",
+        "city_id": "449",
+        "url": "https:\/\/m.anjuke.com\/xzpeixian\/"
+    },
+    "老河口^^704^^xylaohekou^^xylhk": {
+        "city_name": "老河口",
+        "city_id": "704",
+        "url": "https:\/\/m.anjuke.com\/xylhk\/"
+    },
+    "新安^^762^^xinan^^xina": {
+        "city_name": "新安",
+        "city_id": "762",
+        "url": "https:\/\/m.anjuke.com\/xina\/"
+    },
+    "香河^^765^^xianghe^^xiangh": {
+        "city_name": "香河",
+        "city_id": "765",
+        "url": "https:\/\/m.anjuke.com\/xiangh\/"
+    },
+    "宜城^^783^^xyyicheng^^xyyc": {
+        "city_name": "宜城",
+        "city_id": "783",
+        "url": "https:\/\/m.anjuke.com\/xyyc\/"
+    },
+    "沙河^^828^^xtshahe^^xtsh": {
+        "city_name": "沙河",
+        "city_id": "828",
+        "url": "https:\/\/m.anjuke.com\/xtsh\/"
+    },
+    "安陆^^853^^xganlu^^xgal": {
+        "city_name": "安陆",
+        "city_id": "853",
+        "url": "https:\/\/m.anjuke.com\/xgal\/"
+    },
+    "湘阴^^948^^xiangyin^^xyyy": {
+        "city_name": "湘阴",
+        "city_id": "948",
+        "url": "https:\/\/m.anjuke.com\/xyyy\/"
+    },
+    "新昌^^957^^xinchang^^xcsx": {
+        "city_name": "新昌",
+        "city_id": "957",
+        "url": "https:\/\/m.anjuke.com\/xcsx\/"
+    },
+    "盱眙^^958^^xuyuxian^^xyha": {
+        "city_name": "盱眙",
+        "city_id": "958",
+        "url": "https:\/\/m.anjuke.com\/xyha\/"
+    },
+    "莘县^^986^^xinxian^^xxlc": {
+        "city_name": "莘县",
+        "city_id": "986",
+        "url": "https:\/\/m.anjuke.com\/xxlc\/"
+    },
+    "响水^^993^^xiangshuixian^^xs": {
+        "city_name": "响水",
+        "city_id": "993",
+        "url": "https:\/\/m.anjuke.com\/xs\/"
+    },
+    "新野^^994^^xinyexian^^xyny": {
+        "city_name": "新野",
+        "city_id": "994",
+        "url": "https:\/\/m.anjuke.com\/xyny\/"
+    },
+    "烟台^^47^^yt^^yt": {
+        "city_name": "烟台",
+        "city_id": "47",
+        "url": "https:\/\/m.anjuke.com\/yt\/"
+    },
+    "扬州^^72^^yangzhou^^yz": {
+        "city_name": "扬州",
+        "city_id": "72",
+        "url": "https:\/\/m.anjuke.com\/yz\/"
+    },
+    "宜昌^^73^^yichang^^yi": {
+        "city_name": "宜昌",
+        "city_id": "73",
+        "url": "https:\/\/m.anjuke.com\/yi\/"
+    },
+    "银川^^74^^yinchuan^^yin": {
+        "city_name": "银川",
+        "city_id": "74",
+        "url": "https:\/\/m.anjuke.com\/yin\/"
+    },
+    "阳江^^79^^yangjiang^^yj": {
+        "city_name": "阳江",
+        "city_id": "79",
+        "url": "https:\/\/m.anjuke.com\/yj\/"
+    },
+    "永州^^83^^yongzhou^^yong": {
+        "city_name": "永州",
+        "city_id": "83",
+        "url": "https:\/\/m.anjuke.com\/yong\/"
+    },
+    "玉林^^88^^yulinshi^^yu": {
+        "city_name": "玉林",
+        "city_id": "88",
+        "url": "https:\/\/m.anjuke.com\/yu\/"
+    },
+    "盐城^^137^^yancheng^^yan": {
+        "city_name": "盐城",
+        "city_id": "137",
+        "url": "https:\/\/m.anjuke.com\/yan\/"
+    },
+    "岳阳^^139^^yueyang^^yy": {
+        "city_name": "岳阳",
+        "city_id": "139",
+        "url": "https:\/\/m.anjuke.com\/yy\/"
+    },
+    "运城^^184^^yuncheng^^yun": {
+        "city_name": "运城",
+        "city_id": "184",
+        "url": "https:\/\/m.anjuke.com\/yun\/"
+    },
+    "宜春^^187^^yichun^^ych": {
+        "city_name": "宜春",
+        "city_id": "187",
+        "url": "https:\/\/m.anjuke.com\/ych\/"
+    },
+    "营口^^192^^yingkou^^yk": {
+        "city_name": "营口",
+        "city_id": "192",
+        "url": "https:\/\/m.anjuke.com\/yk\/"
+    },
+    "榆林^^194^^yulin^^yl": {
+        "city_name": "榆林",
+        "city_id": "194",
+        "url": "https:\/\/m.anjuke.com\/yl\/"
+    },
+    "宜宾^^207^^yibin^^yb": {
+        "city_name": "宜宾",
+        "city_id": "207",
+        "url": "https:\/\/m.anjuke.com\/yb\/"
+    },
+    "益阳^^221^^yiyang^^yiy": {
+        "city_name": "益阳",
+        "city_id": "221",
+        "url": "https:\/\/m.anjuke.com\/yiy\/"
+    },
+    "义乌^^228^^yiwu^^yw": {
+        "city_name": "义乌",
+        "city_id": "228",
+        "url": "https:\/\/m.anjuke.com\/yw\/"
+    },
+    "玉溪^^231^^yuxi^^yx": {
+        "city_name": "玉溪",
+        "city_id": "231",
+        "url": "https:\/\/m.anjuke.com\/yx\/"
+    },
+    "伊犁^^235^^yili^^yili": {
+        "city_name": "伊犁",
+        "city_id": "235",
+        "url": "https:\/\/m.anjuke.com\/yili\/"
+    },
+    "阳泉^^249^^yangquan^^yq": {
+        "city_name": "阳泉",
+        "city_id": "249",
+        "url": "https:\/\/m.anjuke.com\/yq\/"
+    },
+    "延安^^254^^yanan^^yanan": {
+        "city_name": "延安",
+        "city_id": "254",
+        "url": "https:\/\/m.anjuke.com\/yanan\/"
+    },
+    "鹰潭^^270^^yingtan^^ying": {
+        "city_name": "鹰潭",
+        "city_id": "270",
+        "url": "https:\/\/m.anjuke.com\/ying\/"
+    },
+    "延边^^277^^yanbian^^yanb": {
+        "city_name": "延边",
+        "city_id": "277",
+        "url": "https:\/\/m.anjuke.com\/yanb\/"
+    },
+    "云浮^^292^^yufu^^yf": {
+        "city_name": "云浮",
+        "city_id": "292",
+        "url": "https:\/\/m.anjuke.com\/yf\/"
+    },
+    "雅安^^378^^yaan^^ya": {
+        "city_name": "雅安",
+        "city_id": "378",
+        "url": "https:\/\/m.anjuke.com\/ya\/"
+    },
+    "阳春^^379^^yangchun^^yang": {
+        "city_name": "阳春",
+        "city_id": "379",
+        "url": "https:\/\/m.anjuke.com\/yang\/"
+    },
+    "鄢陵^^380^^yanling^^yanl": {
+        "city_name": "鄢陵",
+        "city_id": "380",
+        "url": "https:\/\/m.anjuke.com\/yanl\/"
+    },
+    "伊春^^381^^yichunshi^^yichuns": {
+        "city_name": "伊春",
+        "city_id": "381",
+        "url": "https:\/\/m.anjuke.com\/yichuns\/"
+    },
+    "玉树^^382^^yushu^^ys": {
+        "city_name": "玉树",
+        "city_id": "382",
+        "url": "https:\/\/m.anjuke.com\/ys\/"
+    },
+    "乐清^^383^^yueqing^^yue": {
+        "city_name": "乐清",
+        "city_id": "383",
+        "url": "https:\/\/m.anjuke.com\/yue\/"
+    },
+    "禹州^^384^^yuzhou^^yuzh": {
+        "city_name": "禹州",
+        "city_id": "384",
+        "url": "https:\/\/m.anjuke.com\/yuzh\/"
+    },
+    "永新^^385^^yongxin^^yxx": {
+        "city_name": "永新",
+        "city_id": "385",
+        "url": "https:\/\/m.anjuke.com\/yxx\/"
+    },
+    "永康市^^562^^yongkangshi^^yks": {
+        "city_name": "永康市",
+        "city_id": "562",
+        "url": "https:\/\/m.anjuke.com\/yks\/"
+    },
+    "宜都^^422^^yidou^^yd": {
+        "city_name": "宜都",
+        "city_id": "422",
+        "url": "https:\/\/m.anjuke.com\/yd\/"
+    },
+    "扬中^^414^^yangzhong^^yzh": {
+        "city_name": "扬中",
+        "city_id": "414",
+        "url": "https:\/\/m.anjuke.com\/yzh\/"
+    },
+    "余姚^^425^^yuyao^^yuy": {
+        "city_name": "余姚",
+        "city_id": "425",
+        "url": "https:\/\/m.anjuke.com\/yuy\/"
+    },
+    "永兴^^1017^^yongxingxian^^yongxing": {
+        "city_name": "永兴",
+        "city_id": "1017",
+        "url": "https:\/\/m.anjuke.com\/yongxing\/"
+    },
+    "云梦^^1018^^yunmengxian^^ym": {
+        "city_name": "云梦",
+        "city_id": "1018",
+        "url": "https:\/\/m.anjuke.com\/ym\/"
+    },
+    "玉环县^^567^^yuhuanxian^^yuhuan": {
+        "city_name": "玉环县",
+        "city_id": "567",
+        "url": "https:\/\/m.anjuke.com\/yuhuan\/"
+    },
+    "当阳^^631^^ycdangyang^^ycdy": {
+        "city_name": "当阳",
+        "city_id": "631",
+        "url": "https:\/\/m.anjuke.com\/ycdy\/"
+    },
+    "攸县^^753^^youxian^^youx": {
+        "city_name": "攸县",
+        "city_id": "753",
+        "url": "https:\/\/m.anjuke.com\/youx\/"
+    },
+    "玉田^^768^^yutian^^yut": {
+        "city_name": "玉田",
+        "city_id": "768",
+        "url": "https:\/\/m.anjuke.com\/yut\/"
+    },
+    "永春^^775^^yongchun^^yongc": {
+        "city_name": "永春",
+        "city_id": "775",
+        "url": "https:\/\/m.anjuke.com\/yongc\/"
+    },
+    "伊川^^786^^yichuan^^yichuan": {
+        "city_name": "伊川",
+        "city_id": "786",
+        "url": "https:\/\/m.anjuke.com\/yichuan\/"
+    },
+    "沅江^^859^^yyruanjiang^^yyrj": {
+        "city_name": "沅江",
+        "city_id": "859",
+        "url": "https:\/\/m.anjuke.com\/yyrj\/"
+    },
+    "阳谷^^995^^yangguxian^^yg": {
+        "city_name": "阳谷",
+        "city_id": "995",
+        "url": "https:\/\/m.anjuke.com\/yg\/"
+    },
+    "沂南^^996^^yinanxian^^yn": {
+        "city_name": "沂南",
+        "city_id": "996",
+        "url": "https:\/\/m.anjuke.com\/yn\/"
+    },
+    "沂源^^997^^yiyuanxian^^yiyuan": {
+        "city_name": "沂源",
+        "city_id": "997",
+        "url": "https:\/\/m.anjuke.com\/yiyuan\/"
+    },
+    "郓城^^998^^yunchengxian^^yc": {
+        "city_name": "郓城",
+        "city_id": "998",
+        "url": "https:\/\/m.anjuke.com\/yc\/"
+    },
+    "余江^^1041^^yujiangc^^yuj": {
+        "city_name": "余江",
+        "city_id": "1041",
+        "url": "https:\/\/m.anjuke.com\/yuj\/"
+    },
+    "燕郊^^548^^yanjiao^^lfyanjiao": {
+        "city_name": "燕郊",
+        "city_id": "548",
+        "url": "https:\/\/m.anjuke.com\/lfyanjiao\/"
+    },
+    "郑州^^26^^zhengzhou^^zz": {
+        "city_name": "郑州",
+        "city_id": "26",
+        "url": "https:\/\/m.anjuke.com\/zz\/"
+    },
+    "中国香港^^29^^hongkong^^hk": {
+        "city_name": "中国香港",
+        "city_id": "29",
+        "url": "https:\/\/m.anjuke.com\/hk\/"
+    },
+    "珠海^^42^^zh^^zh": {
+        "city_name": "珠海",
+        "city_id": "42",
+        "url": "https:\/\/m.anjuke.com\/zh\/"
+    },
+    "中山^^44^^zs^^zs": {
+        "city_name": "中山",
+        "city_id": "44",
+        "url": "https:\/\/m.anjuke.com\/zs\/"
+    },
+    "镇江^^75^^zhenjiang^^zj": {
+        "city_name": "镇江",
+        "city_id": "75",
+        "url": "https:\/\/m.anjuke.com\/zj\/"
+    },
+    "淄博^^76^^zibo^^zb": {
+        "city_name": "淄博",
+        "city_id": "76",
+        "url": "https:\/\/m.anjuke.com\/zb\/"
+    },
+    "张家口^^104^^zhangjiakou^^zjk": {
+        "city_name": "张家口",
+        "city_id": "104",
+        "url": "https:\/\/m.anjuke.com\/zjk\/"
+    },
+    "株洲^^109^^zhuzhou^^zhu": {
+        "city_name": "株洲",
+        "city_id": "109",
+        "url": "https:\/\/m.anjuke.com\/zhu\/"
+    },
+    "漳州^^123^^zhangzhou^^zhang": {
+        "city_name": "漳州",
+        "city_id": "123",
+        "url": "https:\/\/m.anjuke.com\/zhang\/"
+    },
+    "湛江^^133^^zhanjiang^^zhan": {
+        "city_name": "湛江",
+        "city_id": "133",
+        "url": "https:\/\/m.anjuke.com\/zhan\/"
+    },
+    "肇庆^^134^^zhaoqing^^zq": {
+        "city_name": "肇庆",
+        "city_id": "134",
+        "url": "https:\/\/m.anjuke.com\/zq\/"
+    },
+    "枣庄^^136^^zaozhuang^^zao": {
+        "city_name": "枣庄",
+        "city_id": "136",
+        "url": "https:\/\/m.anjuke.com\/zao\/"
+    },
+    "舟山^^144^^zhoushan^^zhou": {
+        "city_name": "舟山",
+        "city_id": "144",
+        "url": "https:\/\/m.anjuke.com\/zhou\/"
+    },
+    "遵义^^151^^zunyi^^zy": {
+        "city_name": "遵义",
+        "city_id": "151",
+        "url": "https:\/\/m.anjuke.com\/zy\/"
+    },
+    "驻马店^^172^^zhumadian^^zmd": {
+        "city_name": "驻马店",
+        "city_id": "172",
+        "url": "https:\/\/m.anjuke.com\/zmd\/"
+    },
+    "自贡^^198^^zigong^^zg": {
+        "city_name": "自贡",
+        "city_id": "198",
+        "url": "https:\/\/m.anjuke.com\/zg\/"
+    },
+    "资阳^^234^^ziyang^^zi": {
+        "city_name": "资阳",
+        "city_id": "234",
+        "url": "https:\/\/m.anjuke.com\/zi\/"
+    },
+    "周口^^245^^zhoukou^^zk": {
+        "city_name": "周口",
+        "city_id": "245",
+        "url": "https:\/\/m.anjuke.com\/zk\/"
+    },
+    "章丘^^247^^zhangqiu^^zhq": {
+        "city_name": "章丘",
+        "city_id": "247",
+        "url": "https:\/\/m.anjuke.com\/zhq\/"
+    },
+    "张家界^^263^^zhangjiajie^^zjj": {
+        "city_name": "张家界",
+        "city_id": "263",
+        "url": "https:\/\/m.anjuke.com\/zjj\/"
+    },
+    "诸城^^289^^zhucheng^^zc": {
+        "city_name": "诸城",
+        "city_id": "289",
+        "url": "https:\/\/m.anjuke.com\/zc\/"
+    },
+    "庄河^^348^^zhuanghe^^pld": {
+        "city_name": "庄河",
+        "city_id": "348",
+        "url": "https:\/\/m.anjuke.com\/pld\/"
+    },
+    "正定^^386^^zhengding^^zd": {
+        "city_name": "正定",
+        "city_id": "386",
+        "url": "https:\/\/m.anjuke.com\/zd\/"
+    },
+    "张北^^387^^zhangbei^^zhangb": {
+        "city_name": "张北",
+        "city_id": "387",
+        "url": "https:\/\/m.anjuke.com\/zhangb\/"
+    },
+    "张掖^^388^^zhangye^^zhangy": {
+        "city_name": "张掖",
+        "city_id": "388",
+        "url": "https:\/\/m.anjuke.com\/zhangy\/"
+    },
+    "昭通^^389^^zhaotong^^zt": {
+        "city_name": "昭通",
+        "city_id": "389",
+        "url": "https:\/\/m.anjuke.com\/zt\/"
+    },
+    "赵县^^391^^zhaoxian^^zx": {
+        "city_name": "赵县",
+        "city_id": "391",
+        "url": "https:\/\/m.anjuke.com\/zx\/"
+    },
+    "邹城市^^553^^zouchengshi^^zcs": {
+        "city_name": "邹城市",
+        "city_id": "553",
+        "url": "https:\/\/m.anjuke.com\/zcs\/"
+    },
+    "遵化^^789^^zunhua^^zunh": {
+        "city_name": "遵化",
+        "city_id": "789",
+        "url": "https:\/\/m.anjuke.com\/zunh\/"
+    },
+    "枝江^^793^^zhijiang^^zhij": {
+        "city_name": "枝江",
+        "city_id": "793",
+        "url": "https:\/\/m.anjuke.com\/zhij\/"
+    },
+    "招远市^^591^^zhaoyuanshi^^zhys": {
+        "city_name": "招远市",
+        "city_id": "591",
+        "url": "https:\/\/m.anjuke.com\/zhys\/"
+    },
+    "资兴^^860^^zixing^^zixing": {
+        "city_name": "资兴",
+        "city_id": "860",
+        "url": "https:\/\/m.anjuke.com\/zixing\/"
+    },
+    "樟树^^887^^zhangshu^^zhsh": {
+        "city_name": "樟树",
+        "city_id": "887",
+        "url": "https:\/\/m.anjuke.com\/zhsh\/"
+    },
+    "诸暨^^398^^zhuji^^zhj": {
+        "city_name": "诸暨",
+        "city_id": "398",
+        "url": "https:\/\/m.anjuke.com\/zhj\/"
+    },
+    "涿州市^^588^^zhuozhoushi^^zzs": {
+        "city_name": "涿州市",
+        "city_id": "588",
+        "url": "https:\/\/m.anjuke.com\/zzs\/"
+    },
+    "枣阳市^^597^^zaoyangshi^^zys": {
+        "city_name": "枣阳市",
+        "city_id": "597",
+        "url": "https:\/\/m.anjuke.com\/zys\/"
+    },
+    "泽州^^1038^^zezhouxian^^zezhou": {
+        "city_name": "泽州",
+        "city_id": "1038",
+        "url": "https:\/\/m.anjuke.com\/zezhou\/"
+    },
+    "邹平县^^552^^zoupingxian^^zouping": {
+        "city_name": "邹平县",
+        "city_id": "552",
+        "url": "https:\/\/m.anjuke.com\/zouping\/"
+    },
+    "肇州^^795^^zhaozhou^^zhaoz": {
+        "city_name": "肇州",
+        "city_id": "795",
+        "url": "https:\/\/m.anjuke.com\/zhaoz\/"
+    },
+    "漳浦^^960^^zhangpu^^zp": {
+        "city_name": "漳浦",
+        "city_id": "960",
+        "url": "https:\/\/m.anjuke.com\/zp\/"
+    },
+    "巴州^^242^^aa^^zz": {
+        "city_name": "巴州",
+        "city_id": 242,
+        "url": "https:\/\/m.anjuke.com\/ba\/"
+    },
+    "农安^^50^^aa^^zz": {
+        "city_name": "农安",
+        "city_id": 50,
+        "url": "https:\/\/m.anjuke.com\/cc\/"
+    },
+    "宁乡^^27^^aa^^zz": {
+        "city_name": "宁乡",
+        "city_id": 27,
+        "url": "https:\/\/m.anjuke.com\/cs\/"
+    },
+    "肇源^^128^^aa^^zz": {
+        "city_name": "肇源",
+        "city_id": 128,
+        "url": "https:\/\/m.anjuke.com\/dq\/"
+    },
+    "宜良^^36^^aa^^zz": {
+        "city_name": "宜良",
+        "city_id": 36,
+        "url": "https:\/\/m.anjuke.com\/km\/"
+    },
+    "永登^^58^^aa^^zz": {
+        "city_name": "永登",
+        "city_id": 58,
+        "url": "https:\/\/m.anjuke.com\/lz\/"
+    },
+    "榆中^^58^^aa^^zz": {
+        "city_name": "榆中",
+        "city_id": 58,
+        "url": "https:\/\/m.anjuke.com\/lz\/"
+    },
+    "文安^^59^^aa^^zz": {
+        "city_name": "文安",
+        "city_id": 59,
+        "url": "https:\/\/m.anjuke.com\/lf\/"
+    },
+    "汝阳^^60^^aa^^zz": {
+        "city_name": "汝阳",
+        "city_id": 60,
+        "url": "https:\/\/m.anjuke.com\/ly\/"
+    },
+    "当涂^^173^^aa^^zz": {
+        "city_name": "当涂",
+        "city_id": 173,
+        "url": "https:\/\/m.anjuke.com\/mas\/"
+    },
+    "新建^^41^^aa^^zz": {
+        "city_name": "新建",
+        "city_id": 41,
+        "url": "https:\/\/m.anjuke.com\/nc\/"
+    },
+    "宾阳^^62^^aa^^zz": {
+        "city_name": "宾阳",
+        "city_id": 62,
+        "url": "https:\/\/m.anjuke.com\/nn\/"
+    },
+    "横县^^62^^aa^^zz": {
+        "city_name": "横县",
+        "city_id": 62,
+        "url": "https:\/\/m.anjuke.com\/nn\/"
+    },
+    "宁海^^32^^aa^^zz": {
+        "city_name": "宁海",
+        "city_id": 32,
+        "url": "https:\/\/m.anjuke.com\/nb\/"
+    },
+    "晋安^^65^^aa^^zz": {
+        "city_name": "晋安",
+        "city_id": 65,
+        "url": "https:\/\/m.anjuke.com\/qz\/"
+    },
+    "上虞^^66^^aa^^zz": {
+        "city_name": "上虞",
+        "city_id": 66,
+        "url": "https:\/\/m.anjuke.com\/sx\/"
+    },
+    "辽中^^39^^aa^^zz": {
+        "city_name": "辽中",
+        "city_id": 39,
+        "url": "https:\/\/m.anjuke.com\/shen\/"
+    },
+    "新民^^39^^aa^^zz": {
+        "city_name": "新民",
+        "city_id": 39,
+        "url": "https:\/\/m.anjuke.com\/shen\/"
+    },
+    "无极^^28^^aa^^zz": {
+        "city_name": "无极",
+        "city_id": 28,
+        "url": "https:\/\/m.anjuke.com\/sjz\/"
+    },
+    "辛集^^28^^aa^^zz": {
+        "city_name": "辛集",
+        "city_id": 28,
+        "url": "https:\/\/m.anjuke.com\/sjz\/"
+    },
+    "元氏^^28^^aa^^zz": {
+        "city_name": "元氏",
+        "city_id": 28,
+        "url": "https:\/\/m.anjuke.com\/sjz\/"
+    },
+    "乐亭^^68^^aa^^zz": {
+        "city_name": "乐亭",
+        "city_id": 68,
+        "url": "https:\/\/m.anjuke.com\/ts\/"
+    },
+    "滦县^^68^^aa^^zz": {
+        "city_name": "滦县",
+        "city_id": 68,
+        "url": "https:\/\/m.anjuke.com\/ts\/"
+    },
+    "丰县^^71^^aa^^zz": {
+        "city_name": "丰县",
+        "city_id": 71,
+        "url": "https:\/\/m.anjuke.com\/xz\/"
+    },
+    "睢宁^^71^^aa^^zz": {
+        "city_name": "睢宁",
+        "city_id": 71,
+        "url": "https:\/\/m.anjuke.com\/xz\/"
+    },
+    "江都^^72^^aa^^zz": {
+        "city_name": "江都",
+        "city_id": 72,
+        "url": "https:\/\/m.anjuke.com\/yz\/"
+    },
+    "阿坝州^^15^^aa^^zz": {
+        "city_name": "阿坝州",
+        "city_id": 15,
+        "url": "https:\/\/m.anjuke.com\/cd\/"
+    },
+    "大邑^^15^^aa^^zz": {
+        "city_name": "大邑",
+        "city_id": 15,
+        "url": "https:\/\/m.anjuke.com\/cd\/"
+    },
+    "金堂^^15^^aa^^zz": {
+        "city_name": "金堂",
+        "city_id": 15,
+        "url": "https:\/\/m.anjuke.com\/cd\/"
+    },
+    "肥东^^33^^aa^^zz": {
+        "city_name": "肥东",
+        "city_id": 33,
+        "url": "https:\/\/m.anjuke.com\/hf\/"
+    },
+    "肥西^^33^^aa^^zz": {
+        "city_name": "肥西",
+        "city_id": 33,
+        "url": "https:\/\/m.anjuke.com\/hf\/"
+    },
+    "庐江^^33^^aa^^zz": {
+        "city_name": "庐江",
+        "city_id": 33,
+        "url": "https:\/\/m.anjuke.com\/hf\/"
+    },
+    "长丰^^33^^aa^^zz": {
+        "city_name": "长丰",
+        "city_id": 33,
+        "url": "https:\/\/m.anjuke.com\/hf\/"
+    },
+    "即墨^^30^^aa^^zz": {
+        "city_name": "即墨",
+        "city_id": 30,
+        "url": "https:\/\/m.anjuke.com\/qd\/"
+    },
+    "胶南^^30^^aa^^zz": {
+        "city_name": "胶南",
+        "city_id": 30,
+        "url": "https:\/\/m.anjuke.com\/qd\/"
+    },
+    "龙门^^52^^aa^^zz": {
+        "city_name": "龙门",
+        "city_id": 52,
+        "url": "https:\/\/m.anjuke.com\/hui\/"
+    },
+    "长乐^^35^^aa^^zz": {
+        "city_name": "长乐",
+        "city_id": 35,
+        "url": "https:\/\/m.anjuke.com\/fz\/"
+    },
+    "连江^^35^^aa^^zz": {
+        "city_name": "连江",
+        "city_id": 35,
+        "url": "https:\/\/m.anjuke.com\/fz\/"
+    },
+    "平潭^^35^^aa^^zz": {
+        "city_name": "平潭",
+        "city_id": 35,
+        "url": "https:\/\/m.anjuke.com\/fz\/"
+    },
+    "普兰店^^21^^aa^^zz": {
+        "city_name": "普兰店",
+        "city_id": 21,
+        "url": "https:\/\/m.anjuke.com\/dl\/"
+    },
+    "平阴^^23^^aa^^zz": {
+        "city_name": "平阴",
+        "city_id": 23,
+        "url": "https:\/\/m.anjuke.com\/jn\/"
+    },
+    "济阳^^23^^aa^^zz": {
+        "city_name": "济阳",
+        "city_id": 23,
+        "url": "https:\/\/m.anjuke.com\/jn\/"
+    },
+    "商河^^23^^aa^^zz": {
+        "city_name": "商河",
+        "city_id": 23,
+        "url": "https:\/\/m.anjuke.com\/jn\/"
+    },
+    "铜梁^^20^^aa^^zz": {
+        "city_name": "铜梁",
+        "city_id": 20,
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "丰都^^20^^aa^^zz": {
+        "city_name": "丰都",
+        "city_id": 20,
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "长寿^^20^^aa^^zz": {
+        "city_name": "长寿",
+        "city_id": 20,
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "涪陵^^20^^aa^^zz": {
+        "city_name": "涪陵",
+        "city_id": 20,
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "南川^^20^^aa^^zz": {
+        "city_name": "南川",
+        "city_id": 20,
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "永川^^20^^aa^^zz": {
+        "city_name": "永川",
+        "city_id": 20,
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "綦江^^20^^aa^^zz": {
+        "city_name": "綦江",
+        "city_id": 20,
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "黔江^^20^^aa^^zz": {
+        "city_name": "黔江",
+        "city_id": 20,
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "万州^^20^^aa^^zz": {
+        "city_name": "万州",
+        "city_id": 20,
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "江津^^20^^aa^^zz": {
+        "city_name": "江津",
+        "city_id": 20,
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "合川^^20^^aa^^zz": {
+        "city_name": "合川",
+        "city_id": 20,
+        "url": "https:\/\/m.anjuke.com\/cq\/"
+    },
+    "中牟^^26^^aa^^zz": {
+        "city_name": "中牟",
+        "city_id": 26,
+        "url": "https:\/\/m.anjuke.com\/zz\/"
+    },
+    "巩义^^26^^aa^^zz": {
+        "city_name": "巩义",
+        "city_id": 26,
+        "url": "https:\/\/m.anjuke.com\/zz\/"
+    },
+    "周至^^31^^aa^^zz": {
+        "city_name": "周至",
+        "city_id": 31,
+        "url": "https:\/\/m.anjuke.com\/xa\/"
+    },
+    "户县^^31^^aa^^zz": {
+        "city_name": "户县",
+        "city_id": 31,
+        "url": "https:\/\/m.anjuke.com\/xa\/"
+    },
+    "蓝田^^31^^aa^^zz": {
+        "city_name": "蓝田",
+        "city_id": 31,
+        "url": "https:\/\/m.anjuke.com\/xa\/"
+    },
+    "淳安^^18^^aa^^zz": {
+        "city_name": "淳安",
+        "city_id": 18,
+        "url": "https:\/\/m.anjuke.com\/hz\/"
+    },
+    "富阳^^18^^aa^^zz": {
+        "city_name": "富阳",
+        "city_id": 18,
+        "url": "https:\/\/m.anjuke.com\/hz\/"
+    },
+    "临安^^18^^aa^^zz": {
+        "city_name": "临安",
+        "city_id": 18,
+        "url": "https:\/\/m.anjuke.com\/hz\/"
+    },
+    "桐庐^^18^^aa^^zz": {
+        "city_name": "桐庐",
+        "city_id": 18,
+        "url": "https:\/\/m.anjuke.com\/hz\/"
+    },
+    "白沙县^^49^^aa^^zz": {
+        "city_name": "白沙县",
+        "city_id": 49,
+        "url": "https:\/\/m.anjuke.com\/hai\/"
+    },
+    "儋州市^^49^^aa^^zz": {
+        "city_name": "儋州市",
+        "city_id": 49,
+        "url": "https:\/\/m.anjuke.com\/hai\/"
+    },
+    "澄迈县^^49^^aa^^zz": {
+        "city_name": "澄迈县",
+        "city_id": 49,
+        "url": "https:\/\/m.anjuke.com\/hai\/"
+    },
+    "定安^^49^^aa^^zz": {
+        "city_name": "定安",
+        "city_id": 49,
+        "url": "https:\/\/m.anjuke.com\/hai\/"
+    },
+    "琼中^^49^^aa^^zz": {
+        "city_name": "琼中",
+        "city_id": 49,
+        "url": "https:\/\/m.anjuke.com\/hai\/"
+    },
+    "屯昌^^49^^aa^^zz": {
+        "city_name": "屯昌",
+        "city_id": 49,
+        "url": "https:\/\/m.anjuke.com\/hai\/"
+    },
+    "文昌市^^49^^aa^^zz": {
+        "city_name": "文昌市",
+        "city_id": 49,
+        "url": "https:\/\/m.anjuke.com\/hai\/"
+    },
+    "保亭^^51^^aa^^zz": {
+        "city_name": "保亭",
+        "city_id": 51,
+        "url": "https:\/\/m.anjuke.com\/sy\/"
+    },
+    "东方市^^51^^aa^^zz": {
+        "city_name": "东方市",
+        "city_id": 51,
+        "url": "https:\/\/m.anjuke.com\/sy\/"
+    }
+}
